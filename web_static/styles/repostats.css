@@ -1,0 +1,271 @@
+#topPanel{
+    position: relative;
+    border: 1px solid #4b3838;
+    width: 68%;
+    margin-top: 6px;
+    margin-left: 2%;
+    height: 350px;
+    border-radius: 10px;
+    overflow: auto;
+
+}
+#panelDescription {
+    font-size: small;
+    font-family: cursive;
+    margin-top: 5px;
+    margin-left: 2%;
+    font-weight: lighter;
+    color: rgb(18, 131, 236);
+}
+#topPanelRepoHeader{
+    display: static;
+    border: 1px solid #4b3838;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 4px;
+    font-size: smaller;
+    display: flexbox;
+    overflow-x: auto;
+    padding-left: 1px;
+    border-radius: 11px;
+}
+#topPanelRepoButton1{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+
+#topPanelRepoButton2{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelRepoButton3{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelRepoButton4{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelRepoButton5{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelRepoButton6{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelRepoButton7{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelRepoButton8{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#repoInfoDiv{
+    position: relative;
+    border: 1px solid #7c7676;
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 2px;
+    border-radius: 18px;
+}
+#repositoryName{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#directoryNumber{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#starsNumber{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#forkStatus{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#createdAt{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#updatedAt{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#numberOfStars{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#allStatsButton{
+    display: none;
+    text-align: center;
+    border: 1px solid #4b3838;
+    width: 80%;
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border-radius: 9px;
+}
+#dropDown{
+    text-align: center;
+    width: 90%;
+    margin-top: 40px;
+    margin-left: 5%;
+    border-radius: 10px;
+    margin-bottom: 0;
+    border-top: 1px solid #4b3838;
+}
+#lineChart{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;    
+}
+#barChart{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+#horrizontalChart{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+#pieCharts{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+#topPanelHeaderDropdown{
+    display: inline;
+    border: 1px solid #7c7676;
+    width: 20px;
+    height: 24px;
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 3.5%;
+    border-radius: 10px;
+    padding: 2px;
+    transition: transform 1ms ease-in;
+}

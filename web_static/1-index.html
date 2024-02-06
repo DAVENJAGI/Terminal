@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terminal</title>
+    <link rel="icon" type="img/png" href="images/logo.png"></link>
+    <link rel="stylesheet" href="styles/header.css"></link>
+    <link rel="stylesheet" href="styles/footer.css"></link>
+    <link rel="stylesheet" href="styles/body.css"></link>
+    <link rel="stylesheet" href="styles/profile.css"></link>
+    <link rel="stylesheet" href="styles/toppanel.css"></link>
+    <link rel="stylesheet" href="styles/sidecontainer.css"></link>
+    <link rel="stylesheet" href="styles/bottompanel.css"></link>
+    <link rel="stylesheet" href="styles/repostats.css"></link>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="scripts/profile_window.js"></script>
+    <script type="text/javascript" src="scripts/sidecontainer.js"></script>
+    <script type="text/javascript" src="scripts/toppanel.js"></script>
+</head>
+<body id="body">
+    <!--HEADER-->
+    <div class="header">
+        <header>
+            <div id="profilePhoto" onclick="toggleWindow()"></div>
+            <div id="logo"></div>
+        </header>
+    </div>
+    <!--PROFILEPAGE-->
+    <div class="Container">
+        <div class="profileWindow" id="profileWindow" onclick="toggleProfileWindow">
+            <div id="profilePhotoPopover"></div>
+            <div id="profileNumbers">
+                <div id="followers">
+                    <h2>Followers</h2>
+                    <h3 id="followers_number">23</h3>
+                </div>
+                <div id="following">
+                    <h2>Following</h2>
+                    <h3 id="following_number">12</h3>
+                </div>
+            </div>
+            <div id="aboutDiv">
+                <button id="aboutHeader" onclick="showUserInfo()">About</button>
+                <h4 id="aboutInfo">Full-stack Python Alchemist 🪄. Building data-driven Flask wonders & wrangling SQL like a Jedi Master . Open to collaboration & new adventures. Let's build, one pixel and bit at a time
+                </h4>
+            </div>
+            <div id="otherDetails">
+                <div>
+                    <button id="personalDetails" onclick="showUserDetails()">Other Details</button>
+                    <div id="otherInfomation">
+                        <div id="organization">
+                            <button id="companyName" onclick="showCompanyName()">Company name: </button>
+                            <h4 id="companyOrganization">Bidco Africa</h4>
+                        </div>
+                        <div id="portfolio">
+                            <button id="portfolioInfo" onclick="showPortfolioLink()">Portfolio link: </button>
+                            <h4 id="portfolioLink"><a href=https://www.davenjagi.tech>davenjagi.tech</a></h4>
+                        </div>
+                        <div id="socials">
+                            <button id="socialmediaInfo" onclick="showSocialPrescence()">Social prescence: </button>
+                            <div id="socialmediaLinks">
+                                <h4>Twitter: DAVE</h4>
+                                <h4>Instagram: DAVE</h4>
+                                <h4>LinkedIn: DAVE</h4>
+                            </div>
+                        </div>
+                        <div id="profile_stats"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--MIDDLEBODY-->
+    <div class="wholePage">
+        <!--OVERALL STATS-->
+        <div class="overallGithubStats">
+            <h5 id="panelDescription">Overall Github Stats</h5>
+            <div id="topPanel">
+                <div id="topPanelHeader">
+                    <button id="topPanelHeaderButton1" onclick="displayName()">Owner</button>
+                    <button id="topPanelHeaderButton2" onclick="displayNoRepos()">No of Repos </button>
+                    <button id="topPanelHeaderButton3" onclick="displayTotalCommits()">Total Commits </button>
+                    <button id="topPanelHeaderButton4" onclick="displayPrivateRepos()">Private Repos </button>
+                    <button id="topPanelHeaderButton5" onclick="displayPublicRepos()">Public Repos </button>
+                    <button id="topPanelHeaderButton6" onclick="displayContributions()">Contributions </button>
+                    <button id="topPanelHeaderButton8" onclick="displayEmail()">email </button>
+                    <button id="topPanelHeaderDropdown" onclick="displayInfoDiv()">v</button>
+                    <div id="infoDiv">
+                        <h5 id="ownerName">Dave Njagi</h5>
+                        <h5 id="repoNumber"> 18 </h5>
+                        <h5 id="totalCommits"> 1,850 </h5>
+                        <h5 id="privateRepos"> 5 </h5>
+                        <h5 id="publicRepos"> 13 </h5>
+                        <h5 id="contributions"> 17 </h5>
+                        <h5 id="email"> davenjagi@gmail.com</h5>
+                    </div>
+                </div>
+                <div id="lineChart"></div>
+                <div id="barChart"></div>
+                <div id="pieCharts"></div>
+                <div id="horrizontalChart"></div>
+            </div>
+            <!--
+            <div class="otherStats">
+                <div id="commitGraph">
+                    <button id="commitButton" onclick="dropCommits()">Commits</button>
+                    <select id="commitDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="commitPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="pullRequestGraph">
+                    
+                    <button id="requestsButton" onclick="dropPullRequests()">Pull Requests</button>
+                    <select id="requestDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="requestsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="watchers">
+                    
+                    <button id="watchersButton" onclick="dropWatchers()">Watchers</button>
+                    <select id="watchersDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="watchersPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="codeFrequency">
+                    
+                    <button id="codeFrequencyButton" onclick="dropCodeFrequency()">Code Frequency</button>
+                    <select id="codeFrequencyDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="codeFrequencyPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="views">
+                    
+                    <button id="viewsButton" onclick="dropViews()">Views</button>
+                    <select id="viewsDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="viewsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+            </div>-->
+        </div>
+        <!--REPOSITORY STATS-->  
+        <div class="overallRepoStats">
+            <h5 id="panelDescription">Repository Stats</h5>
+            <div id="topPanel">
+                <div id="topPanelRepoHeader">
+                    <select id="topPanelRepoButton1">
+                        <option onclick="displayName()">Repositories</option>
+                    </select>
+                    <button id="topPanelRepoButton2" onclick="displayNoRepos()">No of Directories </button>
+                    <button id="topPanelRepoButton3" onclick="displayTotalCommits()">Stars </button>
+                    <button id="topPanelRepoButton4" onclick="displayPrivateRepos()">Fork Status </button>
+                    <button id="topPanelRepoButton5" onclick="displayPublicRepos()">Created at</button>
+                    <button id="topPanelRepoButton6" onclick="displayContributions()">Updated at</button>
+                    <button id="topPanelRepoButton8" onclick="displayEmail()">Number of stars </button>
+                    <button id="topPanelRepoDropdown" onclick="displayRepoInfoDiv()">v</button>
+                    <div id="repoInfoDiv">
+                        <h5 id="repositoryName">Dave Njagi</h5>
+                        <h5 id="directoryNumber"> 18 </h5>
+                        <h5 id="totalCommits"> 1,850 </h5>
+                        <h5 id="forkStatus"> 5 </h5>
+                        <h5 id="createdAt"> 13 </h5>
+                        <h5 id="updatedAt"> 17 </h5>
+                        <h5 id="numberOfStars">21</h5>
+                    </div>
+                </div>
+                <div id="lineChart"></div>
+                <div id="barChart"></div>
+                <div id="pieCharts"></div>
+                <div id="horrizontalChart"></div>
+            </div>
+            <!--
+            <div class="repoStats">
+                <div id="commitGraph">
+                    <button id="commitButton" onclick="dropCommits()">Commits</button>
+                    <select id="commitDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="commitPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="pullRequestGraph">
+                    
+                    <button id="requestsButton" onclick="dropPullRequests()">Pull Requests</button>
+                    <select id="requestDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="requestsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="watchers">
+                    
+                    <button id="watchersButton" onclick="dropWatchers()">Watchers</button>
+                    <select id="watchersDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="watchersPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="codeFrequency">
+                    
+                    <button id="codeFrequencyButton" onclick="dropCodeFrequency()">Code Frequency</button>
+                    <select id="codeFrequencyDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="codeFrequencyPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="views">
+                    
+                    <button id="viewsButton" onclick="dropViews()">Views</button>
+                    <select id="viewsDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="viewsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+            </div>
+        -->
+        </div>
+        <div class="overallDirectoryStats">
+            <h5 id="panelDescription">Directory Stats</h5>
+            <div id="topPanel">
+                <div id="topPanelHeader">
+                    <button id="topPanelHeaderButton1" onclick="displayName()">Owner</button>
+                    <button id="topPanelHeaderButton2" onclick="displayNoRepos()">No of Repos </button>
+                    <button id="topPanelHeaderButton3" onclick="displayTotalCommits()">Total Commits </button>
+                    <button id="topPanelHeaderButton4" onclick="displayPrivateRepos()">Private Repos </button>
+                    <button id="topPanelHeaderButton5" onclick="displayPublicRepos()">Public Repos </button>
+                    <button id="topPanelHeaderButton6" onclick="displayContributions()">Contributions </button>
+                    <button id="topPanelHeaderButton8" onclick="displayEmail()">email </button>
+                    <button id="topPanelHeaderRepoDropdown" onclick="displayInfoDiv()">v</button>
+                    <div id="infoDiv">
+                        <h5 id="ownerName">Dave Njagi</h5>
+                        <h5 id="repoNumber"> 18 </h5>
+                        <h5 id="totalCommits"> 1,850 </h5>
+                        <h5 id="privateRepos"> 5 </h5>
+                        <h5 id="publicRepos"> 13 </h5>
+                        <h5 id="contributions"> 17 </h5>
+                        <h5 id="email"> davenjagi@gmail.com</h5>
+                    </div>
+                </div>
+                <div id="lineChart"></div>
+                <div id="barChart"></div>
+                <div id="pieCharts"></div>
+                <div id="horrizontalChart"></div>
+            </div>
+            <!--
+            <div class="repoStats">
+                <div id="commitGraph">
+                    <button id="commitButton" onclick="dropCommits()">Commits</button>
+                    <select id="commitDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="commitPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="pullRequestGraph">
+                    
+                    <button id="requestsButton" onclick="dropPullRequests()">Pull Requests</button>
+                    <select id="requestDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="requestsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="watchers">
+                    
+                    <button id="watchersButton" onclick="dropWatchers()">Watchers</button>
+                    <select id="watchersDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="watchersPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="codeFrequency">
+                    
+                    <button id="codeFrequencyButton" onclick="dropCodeFrequency()">Code Frequency</button>
+                    <select id="codeFrequencyDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="codeFrequencyPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="views">
+                    
+                    <button id="viewsButton" onclick="dropViews()">Views</button>
+                    <select id="viewsDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="viewsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+            </div>
+        -->
+        </div>
+        <div class="overallFileStats">
+            <h5 id="panelDescription">File Stats</h5>
+            <div id="topPanel">
+                <div id="topPanelHeader">
+                    <button id="topPanelHeaderButton1" onclick="displayName()">Owner</button>
+                    <button id="topPanelHeaderButton2" onclick="displayNoRepos()">No of Repos </button>
+                    <button id="topPanelHeaderButton3" onclick="displayTotalCommits()">Total Commits </button>
+                    <button id="topPanelHeaderButton4" onclick="displayPrivateRepos()">Private Repos </button>
+                    <button id="topPanelHeaderButton5" onclick="displayPublicRepos()">Public Repos </button>
+                    <button id="topPanelHeaderButton6" onclick="displayContributions()">Contributions </button>
+                    <button id="topPanelHeaderButton8" onclick="displayEmail()">email </button>
+                    <button id="topPanelHeaderRepoDropdown" onclick="displayInfoDiv()">v</button>
+                    <div id="infoDiv">
+                        <h5 id="ownerName">Dave Njagi</h5>
+                        <h5 id="repoNumber"> 18 </h5>
+                        <h5 id="totalCommits"> 1,850 </h5>
+                        <h5 id="privateRepos"> 5 </h5>
+                        <h5 id="publicRepos"> 13 </h5>
+                        <h5 id="contributions"> 17 </h5>
+                        <h5 id="email"> davenjagi@gmail.com</h5>
+                    </div>
+                </div>
+                <div id="lineChart"></div>
+                <div id="barChart"></div>
+                <div id="pieCharts"></div>
+                <div id="horrizontalChart"></div>
+            </div>
+            <!--
+            <div class="repoStats">
+                <div id="commitGraph">
+                    <button id="commitButton" onclick="dropCommits()">Commits</button>
+                    <select id="commitDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="commitPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="pullRequestGraph">
+                    
+                    <button id="requestsButton" onclick="dropPullRequests()">Pull Requests</button>
+                    <select id="requestDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="requestsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="watchers">
+                    
+                    <button id="watchersButton" onclick="dropWatchers()">Watchers</button>
+                    <select id="watchersDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="watchersPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="codeFrequency">
+                    
+                    <button id="codeFrequencyButton" onclick="dropCodeFrequency()">Code Frequency</button>
+                    <select id="codeFrequencyDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="codeFrequencyPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+                <div id="views">
+                    
+                    <button id="viewsButton" onclick="dropViews()">Views</button>
+                    <select id="viewsDuration">
+                        <option> Duration</option>
+                    </select>
+                    <div>
+                        <h4  id="viewsPlotGraph">0x01-Pycode is a Python library for python app. It offers features such as flask api and is well-suited for python developers.</h4>
+                    </div>
+                </div>
+            </div>
+        -->
+        </div>
+    </div>
+    <!--FOOTER-->
+    <div class="footer">
+        <footer>
+            <h3 id="footerNote">2024. Terminal By <a id="homelink" href="https://www.davenjagi.tech"> davenjagi.tech</a></h3>
+        </footer>
+    </div>
+</body>
+</html>

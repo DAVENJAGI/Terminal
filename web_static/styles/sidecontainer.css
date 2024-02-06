@@ -1,0 +1,247 @@
+.otherStats{
+    display: inline;
+    width: 25%;
+    border: 1px solid  #4b3838;
+    height: 120px;
+    position:absolute;
+    margin-left: 70%;
+
+}
+#commitGraph{
+    width: 93%;
+    display: flexbox;
+    position: relative;
+    margin-left: 2%;
+    margin-right: 12px;
+    margin-top: 3px;
+    padding-right: 5px;
+    padding-left: 4px;
+    padding-top: 4px;
+    border: 1px solid #4b3838;
+    border-radius: 9px;
+}/*
+
+#commitDuration{
+    width: 32%;
+    margin-left: 3%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+    padding-right: 1px;
+    padding-left: 1px;
+    border-radius: 9px;
+}
+#commitButton{
+    text-align: center;
+    border: 1px solid #4b3838;
+    width: 63%;
+    margin-left: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 9px;
+}
+#commitDuration:hover{
+    opacity: 80%;
+}
+#commitButton:hover{
+    opacity: 80%;
+}
+#commitPlotGraph{
+    display: none;
+    border: 1px solid #4b3838;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+#pullRequestGraph {
+    display: flexbox;
+    position: relative;
+    width: 93%;
+    margin-left: 2%;
+    margin-right: 12px;
+    margin-top: 15px;
+    padding-right: 5px;
+    padding-left: 4px;
+    padding-top: 4px;
+    border: 1px solid #4b3838;
+    border-radius: 9px;
+}
+#requestDuration{
+    width: 32%;
+    margin-left: 3%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 1px;
+    border-radius: 9px;
+}
+#requestsButton{
+    border: 1px solid #4b3838;
+    margin-left: 1px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    padding-right: 12%;   
+    padding-left: 65px;
+    border-radius: 9px;
+}
+#requestsPlotGraph{
+    display: none;
+    border: 1px solid #4b3838;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+#watchers{
+    display: flexbox;
+    position: relative;
+    width: 93%;
+    margin-left: 2%;
+    margin-right: 12px;
+    margin-top: 15px;
+    padding-right: 5px;
+    padding-left: 4px;
+    padding-top: 4px;
+    border: 1px solid #4b3838;
+    border-radius: 9px;
+}
+#watchersButton {
+    width: 62%;
+    text-align: center;
+    margin-left: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    padding-right: 12%;   
+    padding-left: 65px;
+    border-radius: 9px;
+    border: 1px solid #4b3838;
+}
+#watchersDuration{
+    width: 32%;
+    margin-left: 3%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 1px;
+    border-radius: 9px;
+}
+#watchersPlotGraph{
+    display: none;
+    border: 1px solid #4b3838;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+#codeFrequency{
+    display: flexbox;
+    position: relative;
+    width: 93%;
+    margin-left: 2%;
+    margin-right: 12px;
+    margin-top: 15px;
+    padding-right: 5px;
+    padding-left: 4px;
+    padding-top: 4px;
+    border: 1px solid #4b3838;
+    border-radius: 9px;
+    margin-bottom: 3px;
+}
+#codeFrequencyButton{
+    width: 62%;
+    margin-left: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    padding-right: 65px;   
+    padding-left: 65px;
+    border-radius: 9px;
+    border: 1px solid #4b3838;
+}
+#codeFrequencyDuration{
+    width: 32%;
+    margin-left: 3%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 1px;
+    border-radius: 9px;
+}
+#codeFrequencyPlotGraph{
+    display: none;
+    border: 1px solid #4b3838;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+#views {
+    display: flexbox;
+    position: relative;
+    width: 93%;
+    margin-left: 2%;
+    margin-right: 12px;
+    margin-top: 15px;
+    padding-right: 5px;
+    padding-left: 4px;
+    padding-top: 4px;
+    border: 1px solid #4b3838;
+    border-radius: 9px;
+    margin-bottom: 3px;
+}
+#viewsButton{
+    width: 62%;
+    margin-left: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    padding-right: 65px;   
+    padding-left: 65px;
+    border-radius: 9px;
+    border: 1px solid #4b3838;
+}
+#viewsDuration{
+    width: 32%;
+    margin-left: 3%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 1px;
+    border-radius: 9px;
+}
+
+#viewsPlotGraph{
+    display: none;
+    border: 1px solid #4b3838;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}

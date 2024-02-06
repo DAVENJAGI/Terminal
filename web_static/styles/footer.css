@@ -1,0 +1,21 @@
+footer {
+    background-color: black;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    bottom: 0;
+    padding-left: 0;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+}
+.footer #homelink{
+    position: relative;
+    margin-top: 2%;
+    color: #CCCCCC;
+    text-decoration: none;
+}
+.footer #footerNote {
+    position: relative;
+    color: #CCCCCC;
+    text-align: center;
+}

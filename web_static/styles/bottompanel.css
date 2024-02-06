@@ -1,0 +1,272 @@
+#topPanel{
+    position: relative;
+    border: 1px solid #4b3838;
+    width: 68%;
+    margin-top: 6px;
+    margin-left: 2%;
+    height: 350px;
+    border-radius: 10px;
+    overflow: auto;
+}
+#panelDescription {
+    font-size: small;
+    font-family: cursive;
+    margin-top: 5px;
+    margin-left: 2%;
+    font-weight: lighter;
+    color: rgb(18, 131, 236);
+}
+#topPanelHeader{
+    display: static;
+    border: 1px solid #4b3838;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 4px;
+    font-size: smaller;
+    display: flexbox;
+    overflow-x: auto;
+    padding-left: 1px;
+    border-radius: 11px;
+}
+#topPanelHeaderButton1{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+
+#topPanelHeaderButton2{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelHeaderButton3{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelHeaderButton4{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelHeaderButton5{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelHeaderButton6{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelHeaderButton7{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#topPanelHeaderButton8{
+    display: inline;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    border-radius: 8px;
+    border: 1px solid #4b3838;
+}
+#infoDiv{
+    display: none;
+    position: relative;
+    border: 1px solid #7c7676;
+    padding: px;
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 2px;
+    border-radius: 18px;
+}
+#ownerName{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#repoNumber{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#totalCommits{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#privateRepos{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#publicRepos{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#contributions{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#email{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1%;
+    border-radius: 10px;
+    padding: 2px;
+}
+#allStatsButton{
+    display: none;
+    text-align: center;
+    border: 1px solid #4b3838;
+    width: 80%;
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border-radius: 9px;
+}
+#dropDown{
+    text-align: center;
+    width: 90%;
+    margin-top: 40px;
+    margin-left: 5%;
+    border-radius: 10px;
+    margin-bottom: 0;
+    border-top: 1px solid #4b3838;
+}
+#lineChart{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;    
+}
+#barChart{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+#horrizontalChart{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+#pieCharts{
+    border: 1px solid #4b3838;
+    width: 94.5%;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+#topPanelRepoDropdown{
+    display: inline;
+    border: 1px solid #7c7676;
+    width: 20px;
+    height: 24px;
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 3.5%;
+    border-radius: 10px;
+    padding: 2px;
+    transition: transform 1ms ease-in;
+}

@@ -1,0 +1,57 @@
+header{
+    top: 0;
+    position: fixed;
+    background-color: #333333;
+    height: 70px;
+    width: 100%;
+    border-bottom:1px solid #CCCCCC;
+    z-index: 1000;
+}
+.header #profilePhoto{
+    background-image: url("../images/profile.png");
+    position: relative;
+    background-position: center;
+    float: right;
+    height: 90%;
+    width: 5%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 2px solid;
+    animation: colorMixing 15s infinite linear;
+}
+@keyframes colorMixing {
+    0% { border-end-start-radius: orange; }
+    25% { border-color: green; }
+    40% { border-color: rgb(133, 133, 5); }
+    50% { border-color: purple; }
+    65% { border-color: blueviolet; }
+    75% { border-color: rgba(38, 201, 17, 0.596); }
+    100% { border-end-end-radius: brown}
+}
+.header #logo {
+    background-image: url("../images/lpng");
+    position: relative;
+    float: left;
+    height: 60px;
+    width: 20%;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.header #logo:hover{
+    opacity: 80%;
+    border: 2px solid;
+    animation: onLogoHover 1s linear;
+}
+@keyframes onLogoHover {
+    0% { border-top: rgb(4, 238, 4); }
+    50% { border-right: rgb(207, 230, 5); }
+    75% { border-bottom: rgb(235, 185, 24);}
+    100% { border-left: rgb(8, 221, 175); }
+}
+.header #profilePhoto:hover{
+    transform: scale(1.1);
+}
