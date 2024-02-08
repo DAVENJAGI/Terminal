@@ -1,6 +1,6 @@
 const userData = {
-    githubUserToken: "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",
-    githubUserName: "DAVENJAGI",
+    githubUserToken: "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",
+    githubUserName: "DAVENJAGI"
 };
 
 const fetch = require("node-fetch");
