@@ -1,0 +1,14 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "------------------------------------------------------------------------------------------------------------------------------------------------------------------------ This is the first portfolio project. Terminal is a project that focuses on using githubs REST API calls to analyse and show stats about a github account, basically by counting the number of repos, showing the contributions in the past number of days among other features. The technologies incorporated in this project are HTML, CSS, and JavaScript, ie node.js, and REST APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
