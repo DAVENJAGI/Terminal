@@ -1,5 +1,5 @@
 footer {
-    background-color: black;
+    background-color: #333333;
     border-top: 1px solid #CCCCCC;
     position: fixed;
     bottom: 0;
@@ -7,6 +7,7 @@ footer {
     text-align: center;
     height: 50px;
     width: 100%;
+    z-index: 1001;
 }
 .footer #homelink{
     position: relative;

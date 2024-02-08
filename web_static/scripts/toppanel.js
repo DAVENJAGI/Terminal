@@ -1,66 +1,96 @@
-/*function displayName() {
+
+function displayName() {
   const ownerName = document.getElementById('ownerName');
-  if (ownerName.style.display === 'none') {
-    ownerName.style.display = 'block';
-  } else {
-    ownerName.style.display = 'none';
-  }
+  const ownerButton = document.getElementById('topPanelHeaderButton1');
+
+  ownerButton.addEventListener('mouseover', () => {
+    ownerName.style.transform = 'scale(1.05)';
+  });
+  
+  ownerButton.addEventListener('mouseout', () => {
+    ownerName.style.transform = 'scale(1)';
+  });
 }
+
+
 
 function displayNoRepos() {
   const repoNumber = document.getElementById('repoNumber');
-  if (repoNumber.style.display === 'none') {
-    repoNumber.style.display = 'block';
-  } else {
-    repoNumber.style.display = 'none';
-  }
+  const reposButton = document.getElementById('topPanelHeaderButton2');
+
+  reposButton.addEventListener('mouseover', () => {
+    repoNumber.style.transform = 'scale(1.05)';
+  });
+  
+  reposButton.addEventListener('mouseout', () => {
+    repoNumber.style.transform = 'scale(1)';
+  });  
 }
 
 function displayTotalCommits() {
   const totalCommits = document.getElementById('totalCommits');
-  if (totalCommits.style.display === 'none') {
-    totalCommits.style.display = 'block';
-  } else {
-    totalCommits.style.display = 'none';
-  }
+  const commitsButton = document.getElementById('topPanelHeaderButton3');
+
+  commitsButton.addEventListener('mouseover', () => {
+    totalCommits.style.transform = 'scale(1.05)';
+  });
+  
+  commitsButton.addEventListener('mouseout', () => {
+    totalCommits.style.transform = 'scale(1)';
+  });  
 }
 
 function displayPrivateRepos() {
   const privateRepos = document.getElementById('privateRepos');
-  if (privateRepos.style.display === 'none') {
-    privateRepos.style.display = 'block';
-  } else {
-    privateRepos.style.display = 'none';
-  }
+  const privateRepoButton = document.getElementById('topPanelHeaderButton4');
+
+  privateRepoButton.addEventListener('mouseover', () => {
+    privateRepos.style.transform = 'scale(1.05)';
+  });
+  
+  privateRepoButton.addEventListener('mouseout', () => {
+    privateRepos.style.transform = 'scale(1)';
+  });  
 }
 
 function displayPublicRepos() {
   const publicRepos = document.getElementById('publicRepos');
-  if (publicRepos.style.display === 'none') {
-    publicRepos.style.display = 'block';
-  } else {
-    publicRepos.style.display = 'none';
-  }
+  const publicRepoButton = document.getElementById('topPanelHeaderButton5');
+
+  publicRepoButton.addEventListener('mouseover', () => {
+    publicRepos.style.transform = 'scale(1.05)';
+  });
+  
+  publicRepoButton.addEventListener('mouseout', () => {
+    publicRepos.style.transform = 'scale(1)';
+  });
 }
 
 function displayContributions() {
   const contributions = document.getElementById('contributions');
-  if (contributions.style.display === 'none') {
-    contributions.style.display = 'block';
-  } else {
-    contributions.style.display = 'none';
-  }
+  const contributionsButton = document.getElementById('topPanelHeaderButton6');
+
+  contributionsButton.addEventListener('mouseover', () => {
+    contributions.style.transform = 'scale(1.05)';
+  });
+  
+  contributionsButton.addEventListener('mouseout', () => {
+    contributions.style.transform = 'scale(1)';
+  });
 }
 
 function displayEmail() {
-  const email = document.getElementById('email');
-  if (email.style.display === 'none') {
-    email.style.display = 'block';
-  } else {
-    email.style.display = 'none';
-  }
+  const email = document.getElementById('emailDisplay');
+  const emailButton = document.getElementById('topPanelHeaderButton7');
+
+  emailButton.addEventListener('mouseover', () => {
+    email.style.transform = 'scale(1.05)';
+  });
+  
+  emailButton.addEventListener('mouseout', () => {
+    email.style.transform = 'scale(1)';
+  });
 }
-*/
 
 function displayInfoDiv() {
   const infoDiv = document.getElementById('infoDiv');

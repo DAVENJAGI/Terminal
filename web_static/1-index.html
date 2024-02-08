@@ -14,22 +14,27 @@
     <link rel="stylesheet" href="styles/sidecontainer.css"></link>
     <link rel="stylesheet" href="styles/bottompanel.css"></link>
     <link rel="stylesheet" href="styles/repostats.css"></link>
+    <link rel="stylesheet" href="styles/directorystat.css"></link>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="scripts/profile_window.js"></script>
     <script type="text/javascript" src="scripts/sidecontainer.js"></script>
     <script type="text/javascript" src="scripts/toppanel.js"></script>
+    <script type="text/javascript" src="scripts/header,js"></script>
 </head>
 <body id="body">
     <!--HEADER-->
     <div class="header">
         <header>
             <div id="profilePhoto" onclick="toggleWindow()"></div>
-            <div id="logo"></div>
+            <div id="logo">
+                <div id="greetings"> Good </div>
+                </div>
+            </div>
         </header>
     </div>
     <!--PROFILEPAGE-->
     <div class="Container">
-        <div class="profileWindow" id="profileWindow" onclick="toggleProfileWindow">
+        <div id="profileWindow" onclick="toggleProfileWindow">
             <div id="profilePhotoPopover"></div>
             <div id="profileNumbers">
                 <div id="followers">
@@ -46,7 +51,7 @@
                 <h4 id="aboutInfo">Full-stack Python Alchemist 🪄. Building data-driven Flask wonders & wrangling SQL like a Jedi Master . Open to collaboration & new adventures. Let's build, one pixel and bit at a time
                 </h4>
             </div>
-            <div id="otherDetails">
+            <div>
                 <div>
                     <button id="personalDetails" onclick="showUserDetails()">Other Details</button>
                     <div id="otherInfomation">
@@ -79,14 +84,15 @@
             <h5 id="panelDescription">Overall Github Stats</h5>
             <div id="topPanel">
                 <div id="topPanelHeader">
-                    <button id="topPanelHeaderButton1" onclick="displayName()">Owner</button>
-                    <button id="topPanelHeaderButton2" onclick="displayNoRepos()">No of Repos </button>
-                    <button id="topPanelHeaderButton3" onclick="displayTotalCommits()">Total Commits </button>
-                    <button id="topPanelHeaderButton4" onclick="displayPrivateRepos()">Private Repos </button>
-                    <button id="topPanelHeaderButton5" onclick="displayPublicRepos()">Public Repos </button>
-                    <button id="topPanelHeaderButton6" onclick="displayContributions()">Contributions </button>
-                    <button id="topPanelHeaderButton8" onclick="displayEmail()">email </button>
-                    <button id="topPanelHeaderDropdown" onclick="displayInfoDiv()">v</button>
+                    <div id="topPanelHeaderDrop">
+                    <button id="topPanelHeaderButton1" onmouseover="displayName()">Owner</button>
+                    <button id="topPanelHeaderButton2" onmouseover="displayNoRepos()">No of Repos </button>
+                    <button id="topPanelHeaderButton3" onmouseover="displayTotalCommits()">Total Commits </button>
+                    <button id="topPanelHeaderButton4" onmouseover="displayPrivateRepos()">Private Repos </button>
+                    <button id="topPanelHeaderButton5" onmouseover="displayPublicRepos()">Public Repos </button>
+                    <button id="topPanelHeaderButton6" onmouseover="displayContributions()">Contributions </button>
+                    <button id="topPanelHeaderButton7" onmouseover="displayEmail()">email </button>
+                    <button id="topPanelHeaderDropdown" onclick="displayInfoDiv()"></button>
                     <div id="infoDiv">
                         <h5 id="ownerName">Dave Njagi</h5>
                         <h5 id="repoNumber"> 18 </h5>
@@ -94,16 +100,16 @@
                         <h5 id="privateRepos"> 5 </h5>
                         <h5 id="publicRepos"> 13 </h5>
                         <h5 id="contributions"> 17 </h5>
-                        <h5 id="email"> davenjagi@gmail.com</h5>
+                        <h5 id="emailDisplay"> davenjagi@gmail.com</h5>
+                    </div>
                     </div>
                 </div>
                 <div id="lineChart"></div>
                 <div id="barChart"></div>
                 <div id="pieCharts"></div>
                 <div id="horrizontalChart"></div>
-            </div>
-            <!--
-            <div class="otherStats">
+            </div><!--
+            <div id="sideStats">
                 <div id="commitGraph">
                     <button id="commitButton" onclick="dropCommits()">Commits</button>
                     <select id="commitDuration">
@@ -171,9 +177,8 @@
                     <button id="topPanelRepoButton8" onclick="displayEmail()">Number of stars </button>
                     <button id="topPanelRepoDropdown" onclick="displayRepoInfoDiv()">v</button>
                     <div id="repoInfoDiv">
-                        <h5 id="repositoryName">Dave Njagi</h5>
                         <h5 id="directoryNumber"> 18 </h5>
-                        <h5 id="totalCommits"> 1,850 </h5>
+                        <h5 id="starsNumber"> 1,850 </h5>
                         <h5 id="forkStatus"> 5 </h5>
                         <h5 id="createdAt"> 13 </h5>
                         <h5 id="updatedAt"> 17 </h5>
@@ -239,26 +244,29 @@
             </div>
         -->
         </div>
+        <!--DIRECTORYSTATS-->
         <div class="overallDirectoryStats">
             <h5 id="panelDescription">Directory Stats</h5>
             <div id="topPanel">
-                <div id="topPanelHeader">
-                    <button id="topPanelHeaderButton1" onclick="displayName()">Owner</button>
-                    <button id="topPanelHeaderButton2" onclick="displayNoRepos()">No of Repos </button>
-                    <button id="topPanelHeaderButton3" onclick="displayTotalCommits()">Total Commits </button>
-                    <button id="topPanelHeaderButton4" onclick="displayPrivateRepos()">Private Repos </button>
-                    <button id="topPanelHeaderButton5" onclick="displayPublicRepos()">Public Repos </button>
-                    <button id="topPanelHeaderButton6" onclick="displayContributions()">Contributions </button>
-                    <button id="topPanelHeaderButton8" onclick="displayEmail()">email </button>
-                    <button id="topPanelHeaderRepoDropdown" onclick="displayInfoDiv()">v</button>
-                    <div id="infoDiv">
-                        <h5 id="ownerName">Dave Njagi</h5>
-                        <h5 id="repoNumber"> 18 </h5>
+                <div id="topPanelDirectoryHeader">
+                    <select id="topPanelHeaderDirButton1">
+                        <option onclick="displayName()">Directories</option>
+                    </select>
+                    <button id="topPanelHeaderDirButton2" onclick="displayNoRepos()">No of Files </button>
+                    <button id="topPanelHeaderDirButton3" onclick="displayTotalCommits()">Total Commits </button>
+                    <button id="topPanelHeaderDirButton4" onclick="displayPrivateRepos()">No of Subdirs </button>
+                    <button id="topPanelHeaderDirButton5" onclick="displayPublicRepos()">Created At </button>
+                    <button id="topPanelHeaderDirButton6" onclick="displayContributions()">Contributions </button>
+                    <button id="topPanelHeaderDirButton8" onclick="displayEmail()">Language </button>
+                    <button id="topPanelHeaderDirDropdown" onclick="displayInfoDiv()">v</button>
+                    <div id="dirInfoDiv">
+                      <!--  <h5 id="ownerName">Dave Njagi</h5>-->
+                        <h5 id="filesNumber"> 18 </h5>
                         <h5 id="totalCommits"> 1,850 </h5>
-                        <h5 id="privateRepos"> 5 </h5>
-                        <h5 id="publicRepos"> 13 </h5>
-                        <h5 id="contributions"> 17 </h5>
-                        <h5 id="email"> davenjagi@gmail.com</h5>
+                        <h5 id="noOfSubdirectories"> 5 </h5>
+                        <h5 id="createdAt"> 21/02/2023 </h5>
+                        <h5 id="updatedAt"> 17/04/2023 </h5>
+                        <h5 id="language">Python</h5>
                     </div>
                 </div>
                 <div id="lineChart"></div>

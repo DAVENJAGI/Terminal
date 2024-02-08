@@ -1,15 +1,12 @@
 #topPanel{
     position: relative;
-    display:block;
     border: 1px solid #4b3838;
     width: 68%;
     margin-top: 6px;
-    margin-bottom: 8px;
     margin-left: 2%;
-    height: auto;
+    height: 350px;
     border-radius: 10px;
     overflow: auto;
-    z-index: 1499;
 }
 #panelDescription {
     font-size: small;
@@ -17,9 +14,9 @@
     margin-top: 5px;
     margin-left: 2%;
     font-weight: lighter;
-    color: #1283ec;
+    color: #1990ff;
 }
-#topPanelHeader{
+#topPanelDirectoryHeader{
     display: static;
     border: 1px solid #4b3838;
     width: 95%;
@@ -30,10 +27,10 @@
     overflow-x: auto;
     padding-left: 1px;
     border-radius: 11px;
-    background-color: #080a09;
+    background-color: #515553;
     overflow: auto;
 }
-#topPanelHeaderButton1{
+#topPanelHeaderDirButton1{
     display: inline;
     width: 12%;
     height: 3%;
@@ -45,10 +42,8 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton1:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton2{
+
+#topPanelHeaderDirButton2{
     display: inline;
     width: 12%;
     height: 3%;
@@ -60,10 +55,7 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton2:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton3{
+#topPanelHeaderDirButton3{
     display: inline;
     width: 12%;
     height: 3%;
@@ -75,10 +67,7 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton3:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton4{
+#topPanelHeaderDirButton4{
     display: inline;
     width: 12%;
     height: 3%;
@@ -90,10 +79,7 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton4:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton5{
+#topPanelHeaderDirButton5{
     display: inline;
     width: 12%;
     height: 3%;
@@ -105,10 +91,7 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton5:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton6{
+#topPanelHeaderDirButton6{
     display: inline;
     width: 12%;
     height: 3%;
@@ -120,10 +103,7 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton6:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton7{
+#topPanelHeaderDirButton7{
     display: inline;
     width: 12%;
     height: 3%;
@@ -135,10 +115,7 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#topPanelHeaderButton7:hover{
-    opacity: 85%;
-}
-#topPanelHeaderButton8{
+#topPanelHeaderDirButton8{
     display: inline;
     width: 12%;
     height: 3%;
@@ -150,23 +127,23 @@
     border: 1px solid #4b3838;
     overflow: auto;
 }
-#infoDiv{
-    display: none;
+#dirInfoDiv{
+    /*display: none;*/
 }
-#ownerName{
+
+#filesNumber{
     display: inline-block;
     border: 1px solid #7c7676;
     width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 2%;
+    margin-left: 14.5%;
     border-radius: 10px;
     padding: 2px;
     color: #CCCCCC;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-#repoNumber{
+#noOfSubdirectories{
     display: inline-block;
     border: 1px solid #7c7676;
     width: 11.5%;
@@ -178,7 +155,30 @@
     padding: 2px;
     color: #CCCCCC;
 }
-#totalCommits{
+
+#createdAt{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11.5%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2px;
+}
+#updatedAt{
+    display: inline-block;
+    border: 1px solid #7c7676;
+    width: 11.5%;
+    height: 3%;
+    text-align: center;
+    margin-top: 5px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2px;
+}
+#language{
     display: inline-block;
     border: 1px solid #7c7676;
     width: 11.5%;
@@ -189,70 +189,6 @@
     border-radius: 10px;
     padding: 2px;
     color: #CCCCCC;
-}
-#privateRepos{
-    display: inline-block;
-    border: 1px solid #7c7676;
-    width: 11.5%;
-    height: 3%;
-    text-align: center;
-    margin-top: 5px;
-    margin: auto;
-    border-radius: 10px;
-    padding: 2px;
-    color: #CCCCCC;
-}
-#publicRepos{
-    display: inline-block;
-    border: 1px solid #7c7676;
-    width: 11.5%;
-    height: 3%;
-    text-align: center;
-    margin-top: 5px;
-    margin: auto;
-    border-radius: 10px;
-    padding: 2px;
-    color: #CCCCCC;
-}
-#contributions{
-    display: inline-block;
-    border: 1px solid #7c7676;
-    width: 11.5%;
-    height: 3%;
-    text-align: center;
-    margin-top: 5px;
-    margin: auto;
-    border-radius: 10px;
-    padding: 2px;
-    color: #CCCCCC;
-}
-#emailDisplay{
-    display: inline-block;
-    border: 1px solid #7c7676;
-    width: 11.5%;
-    height: 3%;
-    text-align: center;
-    margin-top: 5px;
-    margin: auto;
-    border-radius: 10px;
-    padding: 2px;
-    text-align: center;
-    color: #CCCCCC;
-    overflow-wrap: break-word;
-    /*white-space: nowrap;*/
-}
-#allStatsButton{
-    display: none;
-    text-align: center;
-    border: 1px solid #4b3838;
-    margin-top: 25px;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 5px;
-    border-radius: 9px;
-    width: 80%;
 }
 #dropDown{
     text-align: center;
@@ -269,8 +205,7 @@
     height: 250px;
     margin-top: 15px;
     margin-left: 3%;
-    border-radius: 10px;
-    background-color: #333131;
+    border-radius: 10px;    
 }
 #barChart{
     border: 1px solid #4b3838;
@@ -279,7 +214,6 @@
     margin-top: 15px;
     margin-left: 3%;
     border-radius: 10px;
-    background-color: #333131;
 }
 #horrizontalChart{
     border: 1px solid #4b3838;
@@ -288,7 +222,6 @@
     margin-top: 15px;
     margin-left: 3%;
     border-radius: 10px;
-    background-color: #333131;
 }
 #pieCharts{
     border: 1px solid #4b3838;
@@ -297,9 +230,8 @@
     margin-top: 15px;
     margin-left: 3%;
     border-radius: 10px;
-    background-color: #333131;
 }
-#topPanelRepoDropdown{
+#topPanelHeaderDirDropdown{
     display: inline;
     border: 1px solid #7c7676;
     width: 20px;
@@ -307,18 +239,6 @@
     text-align: center;
     margin-top: 2px;
     margin-left: 3.5%;
-    border-radius: 10px;
-    padding: 2px;
-    transition: transform 1ms ease-in;
-}
-#topPanelHeaderDropdown{
-    display: inline;
-    border: 1px solid #7c7676;
-    width: 24px;
-    height: 20px;
-    text-align: center;
-    margin-top: 5px;
-    margin-left: 9%;
     border-radius: 10px;
     padding: 2px;
     transition: transform 1ms ease-in;

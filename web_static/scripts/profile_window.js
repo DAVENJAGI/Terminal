@@ -16,14 +16,12 @@ function showUserInfo() {
 }
 
 function showUserDetails() {
-  const detailsButton = document.getElementById('#organization, #portfolio, #socials');
-  detailsButton.forEach(button => {
-    if (otherInfo.style.display === 'none') {
-      otherInfo.style.display = 'block';
-    } else {
-      otherInfo.style.display = 'none';
-    }
-  })
+  const detailsInfo = document.getElementById('otherInformation');
+  if (detailsInfo.style.display === 'none') {
+    detailsInfo.style.display = 'block';
+  } else {
+    detailsInfo.style.display = 'none';
+  }
 }
 
 function showCompanyName() {

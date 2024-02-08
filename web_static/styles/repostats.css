@@ -7,7 +7,6 @@
     height: 350px;
     border-radius: 10px;
     overflow: auto;
-
 }
 #panelDescription {
     font-size: small;
@@ -15,7 +14,7 @@
     margin-top: 5px;
     margin-left: 2%;
     font-weight: lighter;
-    color: rgb(18, 131, 236);
+    color: #188efc;
 }
 #topPanelRepoHeader{
     display: static;
@@ -28,6 +27,8 @@
     overflow-x: auto;
     padding-left: 1px;
     border-radius: 11px;
+    overflow: auto;
+    background-color: #251f23;
 }
 #topPanelRepoButton1{
     display: inline;
@@ -36,9 +37,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: 2%;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 
 #topPanelRepoButton2{
@@ -48,9 +50,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #topPanelRepoButton3{
     display: inline;
@@ -59,9 +62,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #topPanelRepoButton4{
     display: inline;
@@ -70,9 +74,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #topPanelRepoButton5{
     display: inline;
@@ -81,9 +86,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #topPanelRepoButton6{
     display: inline;
@@ -92,9 +98,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #topPanelRepoButton7{
     display: inline;
@@ -103,9 +110,10 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #topPanelRepoButton8{
     display: inline;
@@ -114,94 +122,86 @@
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 1%;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid #4b3838;
+    overflow: auto;
 }
 #repoInfoDiv{
-    position: relative;
-    border: 1px solid #7c7676;
-    width: 98%;
-    margin-left: 1%;
-    margin-bottom: 2px;
-    border-radius: 18px;
+    /*display: none;*/
 }
-#repositoryName{
-    display: inline-block;
-    border: 1px solid #7c7676;
-    width: 12%;
-    height: 3%;
-    text-align: center;
-    margin-top: 5px;
-    margin-left: 1%;
-    border-radius: 10px;
-    padding: 2px;
-}
+
 #directoryNumber{
     display: inline-block;
     border: 1px solid #7c7676;
-    width: 11%;
+    width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 1%;
+    margin-left: 14%;
     border-radius: 10px;
     padding: 2px;
+    color: #CCCCCC;
 }
 #starsNumber{
     display: inline-block;
     border: 1px solid #7c7676;
-    width: 11%;
+    width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 1%;
+    margin: auto;
     border-radius: 10px;
     padding: 2px;
+    color: #CCCCCC;
 }
 #forkStatus{
     display: inline-block;
     border: 1px solid #7c7676;
-    width: 11%;
+    width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 1%;
+    margin: auto;
     border-radius: 10px;
     padding: 2px;
+    color: #CCCCCC;
 }
 #createdAt{
     display: inline-block;
     border: 1px solid #7c7676;
-    width: 12%;
+    width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 1%;
+    margin: auto;
     border-radius: 10px;
     padding: 2px;
+    color: #CCCCCC;
 }
 #updatedAt{
     display: inline-block;
     border: 1px solid #7c7676;
-    width: 11%;
+    width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 1%;
+    margin: auto;
     border-radius: 10px;
     padding: 2px;
+    color: #CCCCCC;
 }
 #numberOfStars{
     display: inline-block;
     border: 1px solid #7c7676;
-    width: 12%;
+    width: 11.5%;
     height: 3%;
     text-align: center;
     margin-top: 5px;
-    margin-left: 1%;
+    margin: auto;
     border-radius: 10px;
     padding: 2px;
+    color: #CCCCCC;
 }
 #allStatsButton{
     display: none;
@@ -215,6 +215,7 @@
     padding-bottom: 10px;
     margin-bottom: 5px;
     border-radius: 9px;
+    color: #CCCCCC;
 }
 #dropDown{
     text-align: center;
@@ -256,16 +257,4 @@
     margin-top: 15px;
     margin-left: 3%;
     border-radius: 10px;
-}
-#topPanelHeaderDropdown{
-    display: inline;
-    border: 1px solid #7c7676;
-    width: 20px;
-    height: 24px;
-    text-align: center;
-    margin-top: 2px;
-    margin-left: 3.5%;
-    border-radius: 10px;
-    padding: 2px;
-    transition: transform 1ms ease-in;
 }

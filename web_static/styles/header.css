@@ -7,13 +7,13 @@ header{
     border-bottom:1px solid #CCCCCC;
     z-index: 1000;
 }
-.header #profilePhoto{
+#profilePhoto{
     background-image: url("../images/profile.png");
     position: relative;
     background-position: center;
     float: right;
     height: 90%;
-    width: 5%;
+    width: 4%;
     background-repeat: no-repeat;
     border-radius: 50%;
     padding-top: 1px;
@@ -30,7 +30,10 @@ header{
     75% { border-color: rgba(38, 201, 17, 0.596); }
     100% { border-end-end-radius: brown}
 }
-.header #logo {
+#greetings{
+    margin: auto;
+}
+#logo {
     background-image: url("../images/lpng");
     position: relative;
     float: left;

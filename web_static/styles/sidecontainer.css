@@ -1,25 +1,25 @@
-.otherStats{
+#sideStats{
     display: inline;
-    width: 25%;
+    width: 15%;
     border: 1px solid  #4b3838;
-    height: 120px;
-    position:absolute;
-    margin-left: 70%;
+    height: 20px;
+    margin-left: 90%;
+    margin-top: 0;
+    border-radius: 10px;
 
 }
 #commitGraph{
-    width: 93%;
-    display: flexbox;
-    position: relative;
-    margin-left: 2%;
-    margin-right: 12px;
-    margin-top: 3px;
+    display: inline-block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
     padding-right: 5px;
     padding-left: 4px;
     padding-top: 4px;
     border: 1px solid #4b3838;
     border-radius: 9px;
-}/*
+}
 
 #commitDuration{
     width: 32%;
