@@ -1,5 +1,5 @@
 function displayGreetings() {
-    // const greetingsElement = document.getElementById('greetings');
+    const greetingsElement = document.getElementById('greetings');
     const date = new Date();
     const hours = date.getHours();
   
@@ -20,13 +20,15 @@ function displayGreetings() {
     } else {
       greeting = greetings.night;
     }
+    greetingsElement.style.width = '80%';
   
     let name = "DAVE";
   
     if (greetingsElement) {
-      greetingsElement.textContent = '${greeting}, ${name}!'; 
+      greetingsElement.textContent = `${greeting}, ${name}!`; 
     } else {
       console.log('${greeting}, ${name}');
     }
 }
-  setInterval(displayGreetings, 3600000);
+setInterval(displayGreetings, 3600000);
+window.onload = displayGreetings;

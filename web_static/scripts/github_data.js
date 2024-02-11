@@ -1,9 +1,9 @@
 const userData = {
     githubUserToken: "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",
-    githubUserName: "DAVENJAGI"
+    githubUserName: "davenjagi",
 };
 
-const fetch = require("node-fetch");
+import("node-fetch");
 var fs = require("fs");
 
 const queryUserData = {
@@ -34,7 +34,7 @@ const fetchUserData = async() => {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-                Authorization: `Bearer ${userData.githubUserToken}`,
+                "Authorization: Bearer ${userData.githubUserToken}",
             },
             body: JSON.stringify(queryUserData),
         });

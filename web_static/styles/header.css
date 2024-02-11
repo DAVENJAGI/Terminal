@@ -31,13 +31,40 @@ header{
     100% { border-end-end-radius: brown}
 }
 #greetings{
-    margin: auto;
+    position: relative;
+    width: fit-content;
+    font-weight: 900;
+    font-family: sans-serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: yellowgreen;
+    font-size: auto;
+    text-shadow: blue;
+    animation: animateGreetings 15s infinite linear;
+    animation: textScale 15s infinite linear;
+}
+@keyframes animateGreetings {
+    0% { color: #6eb627 ease-in; }
+    25% { color:#cfe605; }
+    50% { color: #10ee99 ease-out; }
+    75% { color: #d69110; }
+    100% { color: #6eb627; }    
+}
+@keyframes textScale {
+    0% { transform: scale(1); }
+    25% { transform: scale(1.05); }
+    50% { transform: scale(1.1); }
+    75% { transform: scale(1.05); }
+    100% { transform: scale(1) ease-out; }    
+}
+#greetings:hover{
+    transform: scale(1.5);
 }
 #logo {
-    background-image: url("../images/lpng");
     position: relative;
     float: left;
-    height: 60px;
     width: 20%;
     background-repeat: no-repeat;
     margin-left: 5px;
@@ -45,8 +72,8 @@ header{
     margin-bottom: 5px;
 }
 .header #logo:hover{
-    opacity: 80%;
-    border: 2px solid;
+    border: 1px dotted;
+    border: transparent;
     animation: onLogoHover 1s linear;
 }
 @keyframes onLogoHover {

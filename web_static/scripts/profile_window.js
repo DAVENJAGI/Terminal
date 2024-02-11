@@ -1,3 +1,5 @@
+/*document.addEventListener('DOMContentLoaded', function() {*/
+
 function toggleWindow() {
   const profileWindow = document.getElementById('profileWindow');
   if (profileWindow.style.display === 'none') {
@@ -6,6 +8,19 @@ function toggleWindow() {
     profileWindow.style.display = 'none';
   }
 }
+function displayFollowers() {
+  const followersNumber = document.getElementById('followers_number');
+
+  async function fetchFollowers() {
+    /*const response = await fetch('https://api.github.com/users/davenjagi');*/
+    const data = await response.json();
+
+    followersNumber.textContent = data.following;
+  }
+  fetchFollowers();
+}
+displayFollowers();
+
 function showUserInfo() {
   const aboutInfo = document.getElementById('aboutInfo');
   if (aboutInfo.style.display === 'none') {

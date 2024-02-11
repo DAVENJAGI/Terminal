@@ -15,11 +15,13 @@
     <link rel="stylesheet" href="styles/bottompanel.css"></link>
     <link rel="stylesheet" href="styles/repostats.css"></link>
     <link rel="stylesheet" href="styles/directorystat.css"></link>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="scripts/profile_window.js"></script>
     <script type="text/javascript" src="scripts/sidecontainer.js"></script>
     <script type="text/javascript" src="scripts/toppanel.js"></script>
-    <script type="text/javascript" src="scripts/header,js"></script>
+    <script type="text/javascript" src="scripts/stats/githubstats_barchart.js"></script>
+    <script type="text/javascript" src="scripts/header.js"></script>
 </head>
 <body id="body">
     <!--HEADER-->
@@ -28,18 +30,17 @@
             <div id="profilePhoto" onclick="toggleWindow()"></div>
             <div id="logo">
                 <div id="greetings"></div>
-                </div>
             </div>
         </header>
     </div>
     <!--PROFILEPAGE-->
     <div class="Container">
-        <div id="profileWindow" onclick="toggleProfileWindow">
+        <div id="profileWindow">
             <div id="profilePhotoPopover"></div>
             <div id="profileNumbers">
                 <div id="followers">
                     <h2>Followers</h2>
-                    <h3 id="followers_number">23</h3>
+                    <h3 id="followers_number">0</h3>
                 </div>
                 <div id="following">
                     <h2>Following</h2>
@@ -87,25 +88,25 @@
                     <div id="topPanelHeaderDrop">
                     <button id="topPanelHeaderButton1" onmouseover="displayName()">Owner</button>
                     <button id="topPanelHeaderButton2" onmouseover="displayNoRepos()">No of Repos </button>
-                    <button id="topPanelHeaderButton3" onmouseover="displayTotalCommits()">Total Commits </button>
+                    <button id="topPanelHeaderButton3" onmouseover="displayCreatedAt()">Created At </button>
+                    <button id="topPanelHeaderButton6" onmouseover="displayUpdatedAt()">Updated At</button>
                     <button id="topPanelHeaderButton4" onmouseover="displayPrivateRepos()">Private Repos </button>
                     <button id="topPanelHeaderButton5" onmouseover="displayPublicRepos()">Public Repos </button>
-                    <button id="topPanelHeaderButton6" onmouseover="displayContributions()">Contributions </button>
                     <button id="topPanelHeaderButton7" onmouseover="displayEmail()">email </button>
                     <button id="topPanelHeaderDropdown" onclick="displayInfoDiv()"></button>
                     <div id="infoDiv">
-                        <h5 id="ownerName">Dave Njagi</h5>
-                        <h5 id="repoNumber"> 18 </h5>
-                        <h5 id="totalCommits"> 1,850 </h5>
-                        <h5 id="privateRepos"> 5 </h5>
-                        <h5 id="publicRepos"> 13 </h5>
-                        <h5 id="contributions"> 17 </h5>
-                        <h5 id="emailDisplay"> davenjagi@gmail.com</h5>
+                        <h5 id="ownerName"></h5>
+                        <h5 id="repoNumber"></h5>
+                        <h5 id="createdAt"></h5>
+                        <h5 id="updatedAt"></h5>
+                        <h5 id="privateRepos"></h5>
+                        <h5 id="publicRepos"></h5>
+                        <h5 id="emailDisplay"></h5>
                     </div>
                     </div>
                 </div>
-                <div id="lineChart"></div>
                 <div id="barChart"></div>
+                <div id="lineChart"></div>
                 <div id="pieCharts"></div>
                 <div id="horrizontalChart"></div>
             </div><!--
@@ -253,7 +254,7 @@
                         <option onclick="displayName()">Directories</option>
                     </select>
                     <button id="topPanelHeaderDirButton2" onclick="displayNoRepos()">No of Files </button>
-                    <button id="topPanelHeaderDirButton3" onclick="displayTotalCommits()">Total Commits </button>
+                  <!--<button id="topPanelHeaderDirButton3" onclick="displayTotalCommits()">Total Commits </button>-->
                     <button id="topPanelHeaderDirButton4" onclick="displayPrivateRepos()">No of Subdirs </button>
                     <button id="topPanelHeaderDirButton5" onclick="displayPublicRepos()">Created At </button>
                     <button id="topPanelHeaderDirButton6" onclick="displayContributions()">Contributions </button>
@@ -262,7 +263,6 @@
                     <div id="dirInfoDiv">
                       <!--  <h5 id="ownerName">Dave Njagi</h5>-->
                         <h5 id="filesNumber"> 18 </h5>
-                        <h5 id="totalCommits"> 1,850 </h5>
                         <h5 id="noOfSubdirectories"> 5 </h5>
                         <h5 id="createdAt"> 21/02/2023 </h5>
                         <h5 id="updatedAt"> 17/04/2023 </h5>
