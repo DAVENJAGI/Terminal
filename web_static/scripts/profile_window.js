@@ -8,18 +8,6 @@ function toggleWindow() {
     profileWindow.style.display = 'none';
   }
 }
-function displayFollowers() {
-  const followersNumber = document.getElementById('followers_number');
-
-  async function fetchFollowers() {
-    /*const response = await fetch('https://api.github.com/users/davenjagi');*/
-    const data = await response.json();
-
-    followersNumber.textContent = data.following;
-  }
-  fetchFollowers();
-}
-displayFollowers();
 
 function showUserInfo() {
   const aboutInfo = document.getElementById('aboutInfo');
@@ -37,7 +25,7 @@ function showUserDetails() {
   } else {
     detailsInfo.style.display = 'none';
   }
-}
+} window.onload = showUserDetails();
 
 function showCompanyName() {
   const companyOrganization = document.getElementById('companyOrganization');
@@ -56,6 +44,16 @@ function showPortfolioLink() {
     portfolioLink.style.display = 'none';
   }
 }
+
+function showLocation() {
+  const location = document.getElementById('location');
+  if (location.style.display === 'none') {
+    location.style.display = 'block';
+  } else {
+    location.style.display = 'none';
+  }
+}
+
 
 function showSocialPrescence() {
   const socialmediaLinks = document.getElementById('socialmediaLinks');

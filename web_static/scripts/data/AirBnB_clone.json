@@ -1,0 +1,162 @@
+[
+  {
+    "name": "AUTHORS",
+    "path": "AUTHORS",
+    "sha": "6b20b19395cc28fe2c730243935a7df16d17172f",
+    "size": 153,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/AUTHORS?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/AUTHORS",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/6b20b19395cc28fe2c730243935a7df16d17172f",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/AirBnB_clone/master/AUTHORS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/AUTHORS?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/6b20b19395cc28fe2c730243935a7df16d17172f",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/AUTHORS"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "9ca23fc17a27f95acc12708384a1a8f855d1d93d",
+    "size": 3386,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/README.md?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/9ca23fc17a27f95acc12708384a1a8f855d1d93d",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/AirBnB_clone/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/9ca23fc17a27f95acc12708384a1a8f855d1d93d",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/README.md"
+    }
+  },
+  {
+    "name": "__pycache__",
+    "path": "__pycache__",
+    "sha": "d2e95091dbf75f616ba2ef3a6ab2b7bfc8922e2f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/__pycache__?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/__pycache__",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/d2e95091dbf75f616ba2ef3a6ab2b7bfc8922e2f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/__pycache__?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/d2e95091dbf75f616ba2ef3a6ab2b7bfc8922e2f",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/__pycache__"
+    }
+  },
+  {
+    "name": "cat_files",
+    "path": "cat_files",
+    "sha": "7298a5685aac5420e1a3c6e845a6473634e16a1f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/cat_files?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/cat_files",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/7298a5685aac5420e1a3c6e845a6473634e16a1f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/cat_files?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/7298a5685aac5420e1a3c6e845a6473634e16a1f",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/cat_files"
+    }
+  },
+  {
+    "name": "console.py",
+    "path": "console.py",
+    "sha": "0c2f9d4d4e2681f8ac284051617a2fa07079c2b6",
+    "size": 7164,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/console.py?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/console.py",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/0c2f9d4d4e2681f8ac284051617a2fa07079c2b6",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/AirBnB_clone/master/console.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/console.py?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/0c2f9d4d4e2681f8ac284051617a2fa07079c2b6",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/console.py"
+    }
+  },
+  {
+    "name": "file.json",
+    "path": "file.json",
+    "sha": "417e0049671777fe27eddc127d836bb2252285ba",
+    "size": 7485,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/file.json?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/file.json",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/417e0049671777fe27eddc127d836bb2252285ba",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/AirBnB_clone/master/file.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/file.json?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/417e0049671777fe27eddc127d836bb2252285ba",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/file.json"
+    }
+  },
+  {
+    "name": "models",
+    "path": "models",
+    "sha": "4ee400e33c8e9a2c9c902fd26e9566cbed1d7999",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/models?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/models",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/4ee400e33c8e9a2c9c902fd26e9566cbed1d7999",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/models?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/4ee400e33c8e9a2c9c902fd26e9566cbed1d7999",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/models"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "382f855c0967c5093204d2846676883d46b8adb7",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/tests?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/tests",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/382f855c0967c5093204d2846676883d46b8adb7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/382f855c0967c5093204d2846676883d46b8adb7",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/tests"
+    }
+  },
+  {
+    "name": "web_static",
+    "path": "web_static",
+    "sha": "8dbc9eeeed388d998c8a7699e92579977e50070d",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/web_static?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/web_static",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/8dbc9eeeed388d998c8a7699e92579977e50070d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/web_static?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/trees/8dbc9eeeed388d998c8a7699e92579977e50070d",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/tree/master/web_static"
+    }
+  },
+  {
+    "name": "webstatic",
+    "path": "webstatic",
+    "sha": "5638f4db45fe0ed46298589d4321cbe2f96d423e",
+    "size": 617,
+    "url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/webstatic?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/webstatic",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/5638f4db45fe0ed46298589d4321cbe2f96d423e",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/AirBnB_clone/master/webstatic",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/contents/webstatic?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/AirBnB_clone/git/blobs/5638f4db45fe0ed46298589d4321cbe2f96d423e",
+      "html": "https://github.com/DAVENJAGI/AirBnB_clone/blob/master/webstatic"
+    }
+  }
+]

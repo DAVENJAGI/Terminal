@@ -1,0 +1,82 @@
+[
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "06661bcf49d6af9660e73073e01aa5044e9aaa69",
+    "size": 628,
+    "url": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/README.md?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/Terminal/blob/DAVE/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/Terminal/git/blobs/06661bcf49d6af9660e73073e01aa5044e9aaa69",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/Terminal/DAVE/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/README.md?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/Terminal/git/blobs/06661bcf49d6af9660e73073e01aa5044e9aaa69",
+      "html": "https://github.com/DAVENJAGI/Terminal/blob/DAVE/README.md"
+    }
+  },
+  {
+    "name": "node_modules",
+    "path": "node_modules",
+    "sha": "f90cdce05787e14cff11a94c36086dbfa3c84b94",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/node_modules?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/Terminal/tree/DAVE/node_modules",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/Terminal/git/trees/f90cdce05787e14cff11a94c36086dbfa3c84b94",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/node_modules?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/Terminal/git/trees/f90cdce05787e14cff11a94c36086dbfa3c84b94",
+      "html": "https://github.com/DAVENJAGI/Terminal/tree/DAVE/node_modules"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "c7b7d40f0543fde4e605ca2cfd0c228294b97087",
+    "size": 18170,
+    "url": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/package-lock.json?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/Terminal/blob/DAVE/package-lock.json",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/Terminal/git/blobs/c7b7d40f0543fde4e605ca2cfd0c228294b97087",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/Terminal/DAVE/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/package-lock.json?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/Terminal/git/blobs/c7b7d40f0543fde4e605ca2cfd0c228294b97087",
+      "html": "https://github.com/DAVENJAGI/Terminal/blob/DAVE/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "d5b706279c3b1b47c68f9f53a770972475218555",
+    "size": 820,
+    "url": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/package.json?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/Terminal/blob/DAVE/package.json",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/Terminal/git/blobs/d5b706279c3b1b47c68f9f53a770972475218555",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/Terminal/DAVE/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/package.json?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/Terminal/git/blobs/d5b706279c3b1b47c68f9f53a770972475218555",
+      "html": "https://github.com/DAVENJAGI/Terminal/blob/DAVE/package.json"
+    }
+  },
+  {
+    "name": "web_static",
+    "path": "web_static",
+    "sha": "d19988e84ed68d155b4779298f9cc9487042b59c",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/web_static?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/Terminal/tree/DAVE/web_static",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/Terminal/git/trees/d19988e84ed68d155b4779298f9cc9487042b59c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/Terminal/contents/web_static?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/Terminal/git/trees/d19988e84ed68d155b4779298f9cc9487042b59c",
+      "html": "https://github.com/DAVENJAGI/Terminal/tree/DAVE/web_static"
+    }
+  }
+]

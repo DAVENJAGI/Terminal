@@ -1,0 +1,386 @@
+[
+  {
+    "name": "0x00-shell_basics",
+    "path": "0x00-shell_basics",
+    "sha": "4718980b75202a3a5e25f0632a79aaaf9fdd64fc",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x00-shell_basics?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x00-shell_basics",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/4718980b75202a3a5e25f0632a79aaaf9fdd64fc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x00-shell_basics?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/4718980b75202a3a5e25f0632a79aaaf9fdd64fc",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x00-shell_basics"
+    }
+  },
+  {
+    "name": "0x01-shell_permissions",
+    "path": "0x01-shell_permissions",
+    "sha": "d2815dfd0baca3c0adf557bbbbae83f924491d05",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x01-shell_permissions?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x01-shell_permissions",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d2815dfd0baca3c0adf557bbbbae83f924491d05",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x01-shell_permissions?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d2815dfd0baca3c0adf557bbbbae83f924491d05",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x01-shell_permissions"
+    }
+  },
+  {
+    "name": "0x02-shell_redirections",
+    "path": "0x02-shell_redirections",
+    "sha": "e24e64eee3222ef6045eda133f933ba126178afc",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x02-shell_redirections?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x02-shell_redirections",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/e24e64eee3222ef6045eda133f933ba126178afc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x02-shell_redirections?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/e24e64eee3222ef6045eda133f933ba126178afc",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x02-shell_redirections"
+    }
+  },
+  {
+    "name": "0x03-shell_variables_expansions",
+    "path": "0x03-shell_variables_expansions",
+    "sha": "c141cef17a711ee122f226cd0dd3fcfc943d94ca",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x03-shell_variables_expansions?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/c141cef17a711ee122f226cd0dd3fcfc943d94ca",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x03-shell_variables_expansions?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/c141cef17a711ee122f226cd0dd3fcfc943d94ca",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions"
+    }
+  },
+  {
+    "name": "0x04-loops_conditions_and_parsing",
+    "path": "0x04-loops_conditions_and_parsing",
+    "sha": "773ad909d4371c259d42bdf0c85319c31f93683d",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x04-loops_conditions_and_parsing?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/773ad909d4371c259d42bdf0c85319c31f93683d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x04-loops_conditions_and_parsing?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/773ad909d4371c259d42bdf0c85319c31f93683d",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing"
+    }
+  },
+  {
+    "name": "0x05-processes_and_signals",
+    "path": "0x05-processes_and_signals",
+    "sha": "424e815cb9b15e0d44a000f1bb63850235ae3f98",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x05-processes_and_signals?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x05-processes_and_signals",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/424e815cb9b15e0d44a000f1bb63850235ae3f98",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x05-processes_and_signals?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/424e815cb9b15e0d44a000f1bb63850235ae3f98",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x05-processes_and_signals"
+    }
+  },
+  {
+    "name": "0x06-regular_expressions",
+    "path": "0x06-regular_expressions",
+    "sha": "bd3ece6d344d8e609043422df1b50686040f8900",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x06-regular_expressions?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x06-regular_expressions",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/bd3ece6d344d8e609043422df1b50686040f8900",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x06-regular_expressions?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/bd3ece6d344d8e609043422df1b50686040f8900",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x06-regular_expressions"
+    }
+  },
+  {
+    "name": "0x07-networking_basics",
+    "path": "0x07-networking_basics",
+    "sha": "4eb88a9748b3f4b336dc42c4096d5798d575d86a",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x07-networking_basics?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x07-networking_basics",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/4eb88a9748b3f4b336dc42c4096d5798d575d86a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x07-networking_basics?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/4eb88a9748b3f4b336dc42c4096d5798d575d86a",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x07-networking_basics"
+    }
+  },
+  {
+    "name": "0x08-networking_basics_2",
+    "path": "0x08-networking_basics_2",
+    "sha": "d073e7853cf5cd664c89f9dd55e0499f956476cc",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x08-networking_basics_2?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x08-networking_basics_2",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d073e7853cf5cd664c89f9dd55e0499f956476cc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x08-networking_basics_2?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d073e7853cf5cd664c89f9dd55e0499f956476cc",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x08-networking_basics_2"
+    }
+  },
+  {
+    "name": "0x0A-configuration_management",
+    "path": "0x0A-configuration_management",
+    "sha": "d6b7837cab4583fb96bf5a8303d167efd8fd1bc5",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0A-configuration_management?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0A-configuration_management",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d6b7837cab4583fb96bf5a8303d167efd8fd1bc5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0A-configuration_management?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d6b7837cab4583fb96bf5a8303d167efd8fd1bc5",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0A-configuration_management"
+    }
+  },
+  {
+    "name": "0x0B-ssh",
+    "path": "0x0B-ssh",
+    "sha": "433e825015fc1d4d9e94983c753a692c5e03ead2",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0B-ssh?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0B-ssh",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/433e825015fc1d4d9e94983c753a692c5e03ead2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0B-ssh?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/433e825015fc1d4d9e94983c753a692c5e03ead2",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0B-ssh"
+    }
+  },
+  {
+    "name": "0x0C-web_server",
+    "path": "0x0C-web_server",
+    "sha": "50e36d6d369daa2fa323dfab81b4663ba3267d18",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0C-web_server?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0C-web_server",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/50e36d6d369daa2fa323dfab81b4663ba3267d18",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0C-web_server?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/50e36d6d369daa2fa323dfab81b4663ba3267d18",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0C-web_server"
+    }
+  },
+  {
+    "name": "0x0F-load_balancer",
+    "path": "0x0F-load_balancer",
+    "sha": "2181954e2f8ad7f8c5091c128bcbe5a95504adf3",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0F-load_balancer?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0F-load_balancer",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/2181954e2f8ad7f8c5091c128bcbe5a95504adf3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0F-load_balancer?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/2181954e2f8ad7f8c5091c128bcbe5a95504adf3",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x0F-load_balancer"
+    }
+  },
+  {
+    "name": "0x0F-load_balancercd",
+    "path": "0x0F-load_balancercd",
+    "sha": "6eca37b3e335a106d52f2d305c61cf8a7fbb27fb",
+    "size": 228,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0F-load_balancercd?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/blob/master/0x0F-load_balancercd",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/blobs/6eca37b3e335a106d52f2d305c61cf8a7fbb27fb",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/alx-system_engineering-devops/master/0x0F-load_balancercd",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x0F-load_balancercd?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/blobs/6eca37b3e335a106d52f2d305c61cf8a7fbb27fb",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/blob/master/0x0F-load_balancercd"
+    }
+  },
+  {
+    "name": "0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter",
+    "path": "0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter",
+    "sha": "683f0a1a80a23aa48255ea3124c0a8a0cb232d4f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/683f0a1a80a23aa48255ea3124c0a8a0cb232d4f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/683f0a1a80a23aa48255ea3124c0a8a0cb232d4f",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter"
+    }
+  },
+  {
+    "name": "0x13-firewall",
+    "path": "0x13-firewall",
+    "sha": "cdfbe2ccc4c151580d55d57b029708233eaa1a4b",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x13-firewall?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x13-firewall",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/cdfbe2ccc4c151580d55d57b029708233eaa1a4b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x13-firewall?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/cdfbe2ccc4c151580d55d57b029708233eaa1a4b",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x13-firewall"
+    }
+  },
+  {
+    "name": "0x14-mysql",
+    "path": "0x14-mysql",
+    "sha": "163a4ece9e839412b6d322c5c1bb63455eefbf25",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x14-mysql?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x14-mysql",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/163a4ece9e839412b6d322c5c1bb63455eefbf25",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x14-mysql?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/163a4ece9e839412b6d322c5c1bb63455eefbf25",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x14-mysql"
+    }
+  },
+  {
+    "name": "0x15-api",
+    "path": "0x15-api",
+    "sha": "1b1ac0429b7021fadd76218b3ba1ec993afd269a",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x15-api?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x15-api",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/1b1ac0429b7021fadd76218b3ba1ec993afd269a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x15-api?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/1b1ac0429b7021fadd76218b3ba1ec993afd269a",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x15-api"
+    }
+  },
+  {
+    "name": "0x16-api_advanced",
+    "path": "0x16-api_advanced",
+    "sha": "e4d74211dae3cc84ce75d663a843d55154b8c8e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x16-api_advanced?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x16-api_advanced",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/e4d74211dae3cc84ce75d663a843d55154b8c8e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x16-api_advanced?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/e4d74211dae3cc84ce75d663a843d55154b8c8e5",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x16-api_advanced"
+    }
+  },
+  {
+    "name": "0x18-webstack_monitoring",
+    "path": "0x18-webstack_monitoring",
+    "sha": "bfe82132fdd1e47cf25d907f57476d3839e8dcda",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x18-webstack_monitoring?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/bfe82132fdd1e47cf25d907f57476d3839e8dcda",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x18-webstack_monitoring?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/bfe82132fdd1e47cf25d907f57476d3839e8dcda",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring"
+    }
+  },
+  {
+    "name": "0x19-postmortem",
+    "path": "0x19-postmortem",
+    "sha": "f0213fa3e61e2cc2683e36a289c7057cbc06e70f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x19-postmortem?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x19-postmortem",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/f0213fa3e61e2cc2683e36a289c7057cbc06e70f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x19-postmortem?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/f0213fa3e61e2cc2683e36a289c7057cbc06e70f",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x19-postmortem"
+    }
+  },
+  {
+    "name": "0x1A-application_server",
+    "path": "0x1A-application_server",
+    "sha": "d2f967d7dbed76f10871dca21acaddc0f3f03c90",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x1A-application_server?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x1A-application_server",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d2f967d7dbed76f10871dca21acaddc0f3f03c90",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x1A-application_server?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/d2f967d7dbed76f10871dca21acaddc0f3f03c90",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x1A-application_server"
+    }
+  },
+  {
+    "name": "0x1B-web_stack_debugging_4",
+    "path": "0x1B-web_stack_debugging_4",
+    "sha": "413ff94751cf5272beecef6701368544d1a1700f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x1B-web_stack_debugging_4?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x1B-web_stack_debugging_4",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/413ff94751cf5272beecef6701368544d1a1700f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/0x1B-web_stack_debugging_4?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/trees/413ff94751cf5272beecef6701368544d1a1700f",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/tree/master/0x1B-web_stack_debugging_4"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "ea713961f2df7891d3b545e488b26db7478b99a7",
+    "size": 19,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/README.md?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-system_engineering-devops/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/blobs/ea713961f2df7891d3b545e488b26db7478b99a7",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/alx-system_engineering-devops/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-system_engineering-devops/git/blobs/ea713961f2df7891d3b545e488b26db7478b99a7",
+      "html": "https://github.com/DAVENJAGI/alx-system_engineering-devops/blob/master/README.md"
+    }
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "name": "0-binary_tree_node.c",
+    "path": "0-binary_tree_node.c",
+    "sha": "9a50b60acbfb103728cf36ab10dec488a633adc1",
+    "size": 509,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/0-binary_tree_node.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/0-binary_tree_node.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/9a50b60acbfb103728cf36ab10dec488a633adc1",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/0-binary_tree_node.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/0-binary_tree_node.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/9a50b60acbfb103728cf36ab10dec488a633adc1",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/0-binary_tree_node.c"
+    }
+  },
+  {
+    "name": "0-main.c",
+    "path": "0-main.c",
+    "sha": "2a93561bd281a2a442b52aca392cef0c2ecb107a",
+    "size": 569,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/0-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/0-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/2a93561bd281a2a442b52aca392cef0c2ecb107a",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/0-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/0-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/2a93561bd281a2a442b52aca392cef0c2ecb107a",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/0-main.c"
+    }
+  },
+  {
+    "name": "0-node",
+    "path": "0-node",
+    "sha": "b1069385ab4db4791f8fb7986fbd6d36db87a898",
+    "size": 16392,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/0-node?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/0-node",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b1069385ab4db4791f8fb7986fbd6d36db87a898",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/0-node",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/0-node?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b1069385ab4db4791f8fb7986fbd6d36db87a898",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/0-node"
+    }
+  },
+  {
+    "name": "1-binary_tree_insert_left.c",
+    "path": "1-binary_tree_insert_left.c",
+    "sha": "299d77d82ec72b7e6b293f354ef76f273a4284ed",
+    "size": 563,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/1-binary_tree_insert_left.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/1-binary_tree_insert_left.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/299d77d82ec72b7e6b293f354ef76f273a4284ed",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/1-binary_tree_insert_left.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/1-binary_tree_insert_left.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/299d77d82ec72b7e6b293f354ef76f273a4284ed",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/1-binary_tree_insert_left.c"
+    }
+  },
+  {
+    "name": "1-left",
+    "path": "1-left",
+    "sha": "89cada3e51ec199479dad7729153dc7f3b739364",
+    "size": 16544,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/1-left?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/1-left",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/89cada3e51ec199479dad7729153dc7f3b739364",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/1-left",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/1-left?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/89cada3e51ec199479dad7729153dc7f3b739364",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/1-left"
+    }
+  },
+  {
+    "name": "1-main.c",
+    "path": "1-main.c",
+    "sha": "5392a7a9a430afbb7305b9c5c1ae69ff0a4959db",
+    "size": 483,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/1-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/1-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/5392a7a9a430afbb7305b9c5c1ae69ff0a4959db",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/1-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/1-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/5392a7a9a430afbb7305b9c5c1ae69ff0a4959db",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/1-main.c"
+    }
+  },
+  {
+    "name": "10-binary_tree_depth.c",
+    "path": "10-binary_tree_depth.c",
+    "sha": "8096f317f1d9df72d5869c90369191c21840af67",
+    "size": 395,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/10-binary_tree_depth.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/10-binary_tree_depth.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/8096f317f1d9df72d5869c90369191c21840af67",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/10-binary_tree_depth.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/10-binary_tree_depth.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/8096f317f1d9df72d5869c90369191c21840af67",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/10-binary_tree_depth.c"
+    }
+  },
+  {
+    "name": "10-depth",
+    "path": "10-depth",
+    "sha": "35092c714851327d8a8ec5f62f792647d0aa9e87",
+    "size": 16616,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/10-depth?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/10-depth",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/35092c714851327d8a8ec5f62f792647d0aa9e87",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/10-depth",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/10-depth?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/35092c714851327d8a8ec5f62f792647d0aa9e87",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/10-depth"
+    }
+  },
+  {
+    "name": "10-main.c",
+    "path": "10-main.c",
+    "sha": "8c9625a58336dbcdf778060113b2cf9b319b6d92",
+    "size": 757,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/10-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/10-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/8c9625a58336dbcdf778060113b2cf9b319b6d92",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/10-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/10-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/8c9625a58336dbcdf778060113b2cf9b319b6d92",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/10-main.c"
+    }
+  },
+  {
+    "name": "11-binary_tree_size.c",
+    "path": "11-binary_tree_size.c",
+    "sha": "e2fa4ee9a9d5973519e844ab3f27eda87767143f",
+    "size": 342,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/11-binary_tree_size.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/11-binary_tree_size.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/e2fa4ee9a9d5973519e844ab3f27eda87767143f",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/11-binary_tree_size.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/11-binary_tree_size.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/e2fa4ee9a9d5973519e844ab3f27eda87767143f",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/11-binary_tree_size.c"
+    }
+  },
+  {
+    "name": "11-main.c",
+    "path": "11-main.c",
+    "sha": "70022bbc81428dcce926c85807829e6947668253",
+    "size": 744,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/11-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/11-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/70022bbc81428dcce926c85807829e6947668253",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/11-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/11-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/70022bbc81428dcce926c85807829e6947668253",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/11-main.c"
+    }
+  },
+  {
+    "name": "11-size",
+    "path": "11-size",
+    "sha": "5a313325c8cdab84b117537736bc81db74bc8776",
+    "size": 16616,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/11-size?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/11-size",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/5a313325c8cdab84b117537736bc81db74bc8776",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/11-size",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/11-size?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/5a313325c8cdab84b117537736bc81db74bc8776",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/11-size"
+    }
+  },
+  {
+    "name": "12-binary_tree_leaves.c",
+    "path": "12-binary_tree_leaves.c",
+    "sha": "4602e5deeca5ae82d899578dd4b420120f2469a6",
+    "size": 419,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/12-binary_tree_leaves.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/12-binary_tree_leaves.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/4602e5deeca5ae82d899578dd4b420120f2469a6",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/12-binary_tree_leaves.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/12-binary_tree_leaves.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/4602e5deeca5ae82d899578dd4b420120f2469a6",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/12-binary_tree_leaves.c"
+    }
+  },
+  {
+    "name": "12-leaves",
+    "path": "12-leaves",
+    "sha": "ce6c0d39e714dcecf4c031fbbf5cd3fe26cbf670",
+    "size": 16616,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/12-leaves?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/12-leaves",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/ce6c0d39e714dcecf4c031fbbf5cd3fe26cbf670",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/12-leaves",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/12-leaves?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/ce6c0d39e714dcecf4c031fbbf5cd3fe26cbf670",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/12-leaves"
+    }
+  },
+  {
+    "name": "12-main.c",
+    "path": "12-main.c",
+    "sha": "b2c869b83dc1c3e8c97224d564cc7e4df3756f4e",
+    "size": 770,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/12-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/12-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b2c869b83dc1c3e8c97224d564cc7e4df3756f4e",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/12-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/12-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b2c869b83dc1c3e8c97224d564cc7e4df3756f4e",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/12-main.c"
+    }
+  },
+  {
+    "name": "2-binary_tree_insert_right.c",
+    "path": "2-binary_tree_insert_right.c",
+    "sha": "6b7937fb4ecf92f38c510a9f6d60535661969f0c",
+    "size": 618,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/2-binary_tree_insert_right.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/2-binary_tree_insert_right.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/6b7937fb4ecf92f38c510a9f6d60535661969f0c",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/2-binary_tree_insert_right.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/2-binary_tree_insert_right.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/6b7937fb4ecf92f38c510a9f6d60535661969f0c",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/2-binary_tree_insert_right.c"
+    }
+  },
+  {
+    "name": "2-main.c",
+    "path": "2-main.c",
+    "sha": "3bd32293ffb1daf054b52a2fc9bcda1761057e6b",
+    "size": 484,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/2-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/2-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/3bd32293ffb1daf054b52a2fc9bcda1761057e6b",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/2-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/2-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/3bd32293ffb1daf054b52a2fc9bcda1761057e6b",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/2-main.c"
+    }
+  },
+  {
+    "name": "2-right",
+    "path": "2-right",
+    "sha": "d085c3e31aedbfee985a12206409cb1d4e733b95",
+    "size": 16544,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/2-right?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/2-right",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/d085c3e31aedbfee985a12206409cb1d4e733b95",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/2-right",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/2-right?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/d085c3e31aedbfee985a12206409cb1d4e733b95",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/2-right"
+    }
+  },
+  {
+    "name": "3-binary_tree_delete.c",
+    "path": "3-binary_tree_delete.c",
+    "sha": "b955ec14473aeb15d0f790ba8534f4044c509e8a",
+    "size": 339,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/3-binary_tree_delete.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/3-binary_tree_delete.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b955ec14473aeb15d0f790ba8534f4044c509e8a",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/3-binary_tree_delete.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/3-binary_tree_delete.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b955ec14473aeb15d0f790ba8534f4044c509e8a",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/3-binary_tree_delete.c"
+    }
+  },
+  {
+    "name": "3-del",
+    "path": "3-del",
+    "sha": "bb3a48869f7823b8b66be418f0ae4d3609cbcc26",
+    "size": 16584,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/3-del?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/3-del",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/bb3a48869f7823b8b66be418f0ae4d3609cbcc26",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/3-del",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/3-del?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/bb3a48869f7823b8b66be418f0ae4d3609cbcc26",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/3-del"
+    }
+  },
+  {
+    "name": "3-main.c",
+    "path": "3-main.c",
+    "sha": "bbcfde171866bc98b40f76833bb0a99fbf5d7adb",
+    "size": 467,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/3-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/3-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/bbcfde171866bc98b40f76833bb0a99fbf5d7adb",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/3-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/3-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/bbcfde171866bc98b40f76833bb0a99fbf5d7adb",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/3-main.c"
+    }
+  },
+  {
+    "name": "4-binary_tree_is_leaf.c",
+    "path": "4-binary_tree_is_leaf.c",
+    "sha": "f16c4c228a75259351dd6b882e3166e39a858b23",
+    "size": 330,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/4-binary_tree_is_leaf.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/4-binary_tree_is_leaf.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/f16c4c228a75259351dd6b882e3166e39a858b23",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/4-binary_tree_is_leaf.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/4-binary_tree_is_leaf.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/f16c4c228a75259351dd6b882e3166e39a858b23",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/4-binary_tree_is_leaf.c"
+    }
+  },
+  {
+    "name": "4-leaf",
+    "path": "4-leaf",
+    "sha": "f1312d82e7db8ce2280137f580977d0adf1384a6",
+    "size": 16616,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/4-leaf?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/4-leaf",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/f1312d82e7db8ce2280137f580977d0adf1384a6",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/4-leaf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/4-leaf?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/f1312d82e7db8ce2280137f580977d0adf1384a6",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/4-leaf"
+    }
+  },
+  {
+    "name": "4-main.c",
+    "path": "4-main.c",
+    "sha": "627f793a39c7e07944121b9ffd40c4f80436354d",
+    "size": 748,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/4-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/4-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/627f793a39c7e07944121b9ffd40c4f80436354d",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/4-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/4-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/627f793a39c7e07944121b9ffd40c4f80436354d",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/4-main.c"
+    }
+  },
+  {
+    "name": "5-binary_tree_is_root.c",
+    "path": "5-binary_tree_is_root.c",
+    "sha": "7a966ae703fbed47f90b5fe670a1a8ddc1919281",
+    "size": 300,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/5-binary_tree_is_root.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/5-binary_tree_is_root.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/7a966ae703fbed47f90b5fe670a1a8ddc1919281",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/5-binary_tree_is_root.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/5-binary_tree_is_root.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/7a966ae703fbed47f90b5fe670a1a8ddc1919281",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/5-binary_tree_is_root.c"
+    }
+  },
+  {
+    "name": "5-main.c",
+    "path": "5-main.c",
+    "sha": "611320b02b6c2401225fb9219388ee12227b8f5b",
+    "size": 748,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/5-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/5-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/611320b02b6c2401225fb9219388ee12227b8f5b",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/5-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/5-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/611320b02b6c2401225fb9219388ee12227b8f5b",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/5-main.c"
+    }
+  },
+  {
+    "name": "5-root",
+    "path": "5-root",
+    "sha": "1480c3ce667aed178bcded053b964cd79b43ee7b",
+    "size": 16616,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/5-root?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/5-root",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/1480c3ce667aed178bcded053b964cd79b43ee7b",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/5-root",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/5-root?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/1480c3ce667aed178bcded053b964cd79b43ee7b",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/5-root"
+    }
+  },
+  {
+    "name": "6-binary_tree_preorder.c",
+    "path": "6-binary_tree_preorder.c",
+    "sha": "746367930e8a19dedfaed134e12eedef8b0434a2",
+    "size": 466,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/6-binary_tree_preorder.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/6-binary_tree_preorder.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/746367930e8a19dedfaed134e12eedef8b0434a2",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/6-binary_tree_preorder.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/6-binary_tree_preorder.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/746367930e8a19dedfaed134e12eedef8b0434a2",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/6-binary_tree_preorder.c"
+    }
+  },
+  {
+    "name": "6-main.c",
+    "path": "6-main.c",
+    "sha": "b6ab1df99d9ed09d492560480e176b06aced17d1",
+    "size": 750,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/6-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/6-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b6ab1df99d9ed09d492560480e176b06aced17d1",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/6-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/6-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b6ab1df99d9ed09d492560480e176b06aced17d1",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/6-main.c"
+    }
+  },
+  {
+    "name": "6-pre",
+    "path": "6-pre",
+    "sha": "d0e6e64fe88623e37371eeb24bfa4a7505f6d444",
+    "size": 16552,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/6-pre?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/6-pre",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/d0e6e64fe88623e37371eeb24bfa4a7505f6d444",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/6-pre",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/6-pre?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/d0e6e64fe88623e37371eeb24bfa4a7505f6d444",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/6-pre"
+    }
+  },
+  {
+    "name": "7-binary_tree_inorder.c",
+    "path": "7-binary_tree_inorder.c",
+    "sha": "b1b33c1aba6463b28f159d76e66a99f406b8b424",
+    "size": 462,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/7-binary_tree_inorder.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/7-binary_tree_inorder.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b1b33c1aba6463b28f159d76e66a99f406b8b424",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/7-binary_tree_inorder.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/7-binary_tree_inorder.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/b1b33c1aba6463b28f159d76e66a99f406b8b424",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/7-binary_tree_inorder.c"
+    }
+  },
+  {
+    "name": "7-in",
+    "path": "7-in",
+    "sha": "415cb7184c6db8cbbb1691dee7b714ae16d28222",
+    "size": 16552,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/7-in?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/7-in",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/415cb7184c6db8cbbb1691dee7b714ae16d28222",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/7-in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/7-in?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/415cb7184c6db8cbbb1691dee7b714ae16d28222",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/7-in"
+    }
+  },
+  {
+    "name": "7-main.c",
+    "path": "7-main.c",
+    "sha": "4ffb69306f803ffa452d0eb9efa85e0395c95a5e",
+    "size": 749,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/7-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/7-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/4ffb69306f803ffa452d0eb9efa85e0395c95a5e",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/7-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/7-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/4ffb69306f803ffa452d0eb9efa85e0395c95a5e",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/7-main.c"
+    }
+  },
+  {
+    "name": "8-binary_tree_postorder.c",
+    "path": "8-binary_tree_postorder.c",
+    "sha": "7d828405f1c9f7a7b518b2f34cb00c5318d36515",
+    "size": 471,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/8-binary_tree_postorder.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/8-binary_tree_postorder.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/7d828405f1c9f7a7b518b2f34cb00c5318d36515",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/8-binary_tree_postorder.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/8-binary_tree_postorder.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/7d828405f1c9f7a7b518b2f34cb00c5318d36515",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/8-binary_tree_postorder.c"
+    }
+  },
+  {
+    "name": "8-main.c",
+    "path": "8-main.c",
+    "sha": "8d68e1ba1e5cb8351880bd97d23f7d5915be9abd",
+    "size": 751,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/8-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/8-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/8d68e1ba1e5cb8351880bd97d23f7d5915be9abd",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/8-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/8-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/8d68e1ba1e5cb8351880bd97d23f7d5915be9abd",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/8-main.c"
+    }
+  },
+  {
+    "name": "8-post",
+    "path": "8-post",
+    "sha": "926a4049c9098833394ce34aa4082b3631db9824",
+    "size": 16552,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/8-post?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/8-post",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/926a4049c9098833394ce34aa4082b3631db9824",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/8-post",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/8-post?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/926a4049c9098833394ce34aa4082b3631db9824",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/8-post"
+    }
+  },
+  {
+    "name": "9-binary_tree_height.c",
+    "path": "9-binary_tree_height.c",
+    "sha": "444f8a3ebf52727b22dad9044986d4314ed81a73",
+    "size": 565,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/9-binary_tree_height.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/9-binary_tree_height.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/444f8a3ebf52727b22dad9044986d4314ed81a73",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/9-binary_tree_height.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/9-binary_tree_height.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/444f8a3ebf52727b22dad9044986d4314ed81a73",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/9-binary_tree_height.c"
+    }
+  },
+  {
+    "name": "9-height",
+    "path": "9-height",
+    "sha": "fd88df0eb0460b59ea084c43028e8389dc10ab02",
+    "size": 16608,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/9-height?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/9-height",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/fd88df0eb0460b59ea084c43028e8389dc10ab02",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/9-height",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/9-height?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/fd88df0eb0460b59ea084c43028e8389dc10ab02",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/9-height"
+    }
+  },
+  {
+    "name": "9-main.c",
+    "path": "9-main.c",
+    "sha": "9614258021b5c6e1c7554c5279860e3b39c6047a",
+    "size": 776,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/9-main.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/9-main.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/9614258021b5c6e1c7554c5279860e3b39c6047a",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/9-main.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/9-main.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/9614258021b5c6e1c7554c5279860e3b39c6047a",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/9-main.c"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "67343d814f4e1cfa974a7a89dac2f26e1fa03996",
+    "size": 58,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/README.md?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/67343d814f4e1cfa974a7a89dac2f26e1fa03996",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/README.md?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/67343d814f4e1cfa974a7a89dac2f26e1fa03996",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/README.md"
+    }
+  },
+  {
+    "name": "binary_tree_print.c",
+    "path": "binary_tree_print.c",
+    "sha": "010fccb5c343febdf5e40cfb6c8479a49c51c1fa",
+    "size": 2262,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/binary_tree_print.c?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/binary_tree_print.c",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/010fccb5c343febdf5e40cfb6c8479a49c51c1fa",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/binary_tree_print.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/binary_tree_print.c?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/010fccb5c343febdf5e40cfb6c8479a49c51c1fa",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/binary_tree_print.c"
+    }
+  },
+  {
+    "name": "binary_trees.h",
+    "path": "binary_trees.h",
+    "sha": "3c11f50a599c22b31f742a4b32c155fc01cb1fcc",
+    "size": 1539,
+    "url": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/binary_trees.h?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/binary_trees.h",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/3c11f50a599c22b31f742a4b32c155fc01cb1fcc",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/binary_trees/DAVE/binary_trees.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/binary_trees/contents/binary_trees.h?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/binary_trees/git/blobs/3c11f50a599c22b31f742a4b32c155fc01cb1fcc",
+      "html": "https://github.com/DAVENJAGI/binary_trees/blob/DAVE/binary_trees.h"
+    }
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "62dd88df453ef4b4c924910b3790e7d030cfb591",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/.vscode?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/.vscode",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/62dd88df453ef4b4c924910b3790e7d030cfb591",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/.vscode?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/62dd88df453ef4b4c924910b3790e7d030cfb591",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/.vscode"
+    }
+  },
+  {
+    "name": "0x00-python-hello_world",
+    "path": "0x00-python-hello_world",
+    "sha": "ccd8d811edb82c3c8572541f883cf80b71aad086",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x00-python-hello_world?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x00-python-hello_world",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/ccd8d811edb82c3c8572541f883cf80b71aad086",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x00-python-hello_world?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/ccd8d811edb82c3c8572541f883cf80b71aad086",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x00-python-hello_world"
+    }
+  },
+  {
+    "name": "0x01-python-if_else_loops_functions",
+    "path": "0x01-python-if_else_loops_functions",
+    "sha": "7f6fb525420cb70197b22ffc758ab160ffd0825a",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x01-python-if_else_loops_functions?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x01-python-if_else_loops_functions",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/7f6fb525420cb70197b22ffc758ab160ffd0825a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x01-python-if_else_loops_functions?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/7f6fb525420cb70197b22ffc758ab160ffd0825a",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x01-python-if_else_loops_functions"
+    }
+  },
+  {
+    "name": "0x02-python-import_modules",
+    "path": "0x02-python-import_modules",
+    "sha": "3e8b1d537ddc0038bd01eaf2fed61112a29d193b",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x02-python-import_modules?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x02-python-import_modules",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/3e8b1d537ddc0038bd01eaf2fed61112a29d193b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x02-python-import_modules?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/3e8b1d537ddc0038bd01eaf2fed61112a29d193b",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x02-python-import_modules"
+    }
+  },
+  {
+    "name": "0x03-python-data_structures",
+    "path": "0x03-python-data_structures",
+    "sha": "e29d01c6e1169101da62fc93b02f4d80915d3f7c",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x03-python-data_structures?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x03-python-data_structures",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/e29d01c6e1169101da62fc93b02f4d80915d3f7c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x03-python-data_structures?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/e29d01c6e1169101da62fc93b02f4d80915d3f7c",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x03-python-data_structures"
+    }
+  },
+  {
+    "name": "0x04-python-more_data_structures",
+    "path": "0x04-python-more_data_structures",
+    "sha": "5763d71fbe3bcb1958dc313d17052c4cdcb05396",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x04-python-more_data_structures?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x04-python-more_data_structures",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/5763d71fbe3bcb1958dc313d17052c4cdcb05396",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x04-python-more_data_structures?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/5763d71fbe3bcb1958dc313d17052c4cdcb05396",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x04-python-more_data_structures"
+    }
+  },
+  {
+    "name": "0x05-python-exceptions",
+    "path": "0x05-python-exceptions",
+    "sha": "7d55424416da6c34ac8f2311c29d0b30c03cf938",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x05-python-exceptions?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x05-python-exceptions",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/7d55424416da6c34ac8f2311c29d0b30c03cf938",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x05-python-exceptions?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/7d55424416da6c34ac8f2311c29d0b30c03cf938",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x05-python-exceptions"
+    }
+  },
+  {
+    "name": "0x06-python-classes",
+    "path": "0x06-python-classes",
+    "sha": "64c4ec46e742a950f66f5e53ec088b0871e59ca4",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x06-python-classes?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x06-python-classes",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/64c4ec46e742a950f66f5e53ec088b0871e59ca4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x06-python-classes?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/64c4ec46e742a950f66f5e53ec088b0871e59ca4",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x06-python-classes"
+    }
+  },
+  {
+    "name": "0x07-python-test_driven_development",
+    "path": "0x07-python-test_driven_development",
+    "sha": "1651b9785f053139c975aae2586f15da40f96e62",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x07-python-test_driven_development?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x07-python-test_driven_development",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/1651b9785f053139c975aae2586f15da40f96e62",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x07-python-test_driven_development?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/1651b9785f053139c975aae2586f15da40f96e62",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x07-python-test_driven_development"
+    }
+  },
+  {
+    "name": "0x08-python-more_classes",
+    "path": "0x08-python-more_classes",
+    "sha": "d7a7df48798ef6027fc8c4efe8633a5e4dbb5bdf",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x08-python-more_classes?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x08-python-more_classes",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/d7a7df48798ef6027fc8c4efe8633a5e4dbb5bdf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x08-python-more_classes?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/d7a7df48798ef6027fc8c4efe8633a5e4dbb5bdf",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x08-python-more_classes"
+    }
+  },
+  {
+    "name": "0x09-python-everything_is_object",
+    "path": "0x09-python-everything_is_object",
+    "sha": "17c4e52262e86b5b694a075900a0f9156124bd36",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x09-python-everything_is_object?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x09-python-everything_is_object",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/17c4e52262e86b5b694a075900a0f9156124bd36",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x09-python-everything_is_object?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/17c4e52262e86b5b694a075900a0f9156124bd36",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x09-python-everything_is_object"
+    }
+  },
+  {
+    "name": "0x0A-python-inheritance",
+    "path": "0x0A-python-inheritance",
+    "sha": "37d7ae48ca70d311243be0c5fbf498ecbe6c2b3e",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0A-python-inheritance?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0A-python-inheritance",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/37d7ae48ca70d311243be0c5fbf498ecbe6c2b3e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0A-python-inheritance?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/37d7ae48ca70d311243be0c5fbf498ecbe6c2b3e",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0A-python-inheritance"
+    }
+  },
+  {
+    "name": "0x0B-python-input_output",
+    "path": "0x0B-python-input_output",
+    "sha": "9caf5bb22a3f77df8a95724c5b8223496bf697ab",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0B-python-input_output?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0B-python-input_output",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/9caf5bb22a3f77df8a95724c5b8223496bf697ab",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0B-python-input_output?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/9caf5bb22a3f77df8a95724c5b8223496bf697ab",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0B-python-input_output"
+    }
+  },
+  {
+    "name": "0x0C-python-almost_a_circle",
+    "path": "0x0C-python-almost_a_circle",
+    "sha": "f4d9371f8de03e8f0eabd9bf1b25e6656b2d9899",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0C-python-almost_a_circle?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0C-python-almost_a_circle",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/f4d9371f8de03e8f0eabd9bf1b25e6656b2d9899",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0C-python-almost_a_circle?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/f4d9371f8de03e8f0eabd9bf1b25e6656b2d9899",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0C-python-almost_a_circle"
+    }
+  },
+  {
+    "name": "0x0D-SQL_introduction",
+    "path": "0x0D-SQL_introduction",
+    "sha": "34c7f5887738d6b986cec654cc7cb28fc98d2358",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0D-SQL_introduction?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0D-SQL_introduction",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/34c7f5887738d6b986cec654cc7cb28fc98d2358",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0D-SQL_introduction?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/34c7f5887738d6b986cec654cc7cb28fc98d2358",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0D-SQL_introduction"
+    }
+  },
+  {
+    "name": "0x0E-SQL_more_queries",
+    "path": "0x0E-SQL_more_queries",
+    "sha": "1a3e25e0282c9556aaa987a00f7693d5ea9f47ab",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0E-SQL_more_queries?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0E-SQL_more_queries",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/1a3e25e0282c9556aaa987a00f7693d5ea9f47ab",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0E-SQL_more_queries?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/1a3e25e0282c9556aaa987a00f7693d5ea9f47ab",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0E-SQL_more_queries"
+    }
+  },
+  {
+    "name": "0x0F-python-object_relational_mapping",
+    "path": "0x0F-python-object_relational_mapping",
+    "sha": "1b2c2b09c92fb8814bd20ab840dc69e634769a61",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0F-python-object_relational_mapping?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0F-python-object_relational_mapping",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/1b2c2b09c92fb8814bd20ab840dc69e634769a61",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x0F-python-object_relational_mapping?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/1b2c2b09c92fb8814bd20ab840dc69e634769a61",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x0F-python-object_relational_mapping"
+    }
+  },
+  {
+    "name": "0x10-python-network_0",
+    "path": "0x10-python-network_0",
+    "sha": "5a21fa7b997e86a2eec9845e158f197d77c2a574",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x10-python-network_0?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x10-python-network_0",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/5a21fa7b997e86a2eec9845e158f197d77c2a574",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x10-python-network_0?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/5a21fa7b997e86a2eec9845e158f197d77c2a574",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x10-python-network_0"
+    }
+  },
+  {
+    "name": "0x11-python-network_1",
+    "path": "0x11-python-network_1",
+    "sha": "b845c5f46012060531ef6a3aff428d7fce2fb8f4",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x11-python-network_1?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x11-python-network_1",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/b845c5f46012060531ef6a3aff428d7fce2fb8f4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x11-python-network_1?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/b845c5f46012060531ef6a3aff428d7fce2fb8f4",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x11-python-network_1"
+    }
+  },
+  {
+    "name": "0x12-javascript-warm_up",
+    "path": "0x12-javascript-warm_up",
+    "sha": "a3d7cdf3015efef1dae3e5d058c307829efd9601",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x12-javascript-warm_up?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x12-javascript-warm_up",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/a3d7cdf3015efef1dae3e5d058c307829efd9601",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x12-javascript-warm_up?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/a3d7cdf3015efef1dae3e5d058c307829efd9601",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x12-javascript-warm_up"
+    }
+  },
+  {
+    "name": "0x14-javascript-web_scraping",
+    "path": "0x14-javascript-web_scraping",
+    "sha": "7e2aa5e03457d552a12f179dead3c0a82d2be5a2",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x14-javascript-web_scraping?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x14-javascript-web_scraping",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/7e2aa5e03457d552a12f179dead3c0a82d2be5a2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x14-javascript-web_scraping?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/7e2aa5e03457d552a12f179dead3c0a82d2be5a2",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x14-javascript-web_scraping"
+    }
+  },
+  {
+    "name": "0x15-javascript-web_jquery",
+    "path": "0x15-javascript-web_jquery",
+    "sha": "276d8880a19be31ba4da87f506366cf1034c6267",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x15-javascript-web_jquery?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x15-javascript-web_jquery",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/276d8880a19be31ba4da87f506366cf1034c6267",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x15-javascript-web_jquery?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/276d8880a19be31ba4da87f506366cf1034c6267",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x15-javascript-web_jquery"
+    }
+  },
+  {
+    "name": "0x16-api_advanced",
+    "path": "0x16-api_advanced",
+    "sha": "6367a006fed6c15df451182299ce2a668679acf9",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x16-api_advanced?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x16-api_advanced",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/6367a006fed6c15df451182299ce2a668679acf9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/0x16-api_advanced?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/trees/6367a006fed6c15df451182299ce2a668679acf9",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/tree/DAVE/0x16-api_advanced"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "723e9fb7083ddb103d6dc7f1cf912a9d7ef4f5bc",
+    "size": 43,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/README.md?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/alx-higher_level_programming/blob/DAVE/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/blobs/723e9fb7083ddb103d6dc7f1cf912a9d7ef4f5bc",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/alx-higher_level_programming/DAVE/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/contents/README.md?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-higher_level_programming/git/blobs/723e9fb7083ddb103d6dc7f1cf912a9d7ef4f5bc",
+      "html": "https://github.com/DAVENJAGI/alx-higher_level_programming/blob/DAVE/README.md"
+    }
+  }
+]

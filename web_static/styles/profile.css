@@ -20,6 +20,7 @@
 }
 #profileNumbers {
     position: relative;
+    margin-top: 5%;
 }
 #followers{
     padding-top: 50%;
@@ -68,7 +69,7 @@
 
 #aboutDiv{
     display: flexbox;
-    margin-top: 80%;
+    margin-top: 90%;
     border: 1px solid #4b3838;
     border-radius: 9px;
 }
@@ -85,10 +86,10 @@
 }
 #aboutHeader{
     position: relative;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    width: 95%;
+    margin-left: 2%;
+    margin-bottom: 5px;
     padding-top: 5%;
     padding-bottom: 5%;
     padding-left: 40%;
@@ -116,8 +117,10 @@
     margin-top: 10%;
     margin-left: 5px;
     overflow: auto;
+    padding-bottom: 5px;
 }
 #otherInformation{
+    width: 95%;
     display: none;
     border: 1px solid #4b3838;
     border-radius: 19px;
@@ -130,12 +133,15 @@
     margin: 9px;
     border-radius: 5px;
 }
+#organization:hover{
+    opacity: 80%;
+    transform: scale(1.01);
+}
 #companyName{
-    width:max-content;
+    width: 95%;
+    margin-left: 2.1%;
+    text-align: center;
     margin-top: 2%;
-    padding-right: 25%;
-    padding-left: 40%;
-    margin-left: 2%;
     padding-top: 5%;
     padding-bottom: 5%;
     border-radius: 15px;
@@ -154,17 +160,48 @@
     margin: 9px;
     border-radius: 5px;
 }
+#portfolio:hover{
+    opacity: 80%;
+    transform: scale(1.01);
+}
 #portfolioInfo{
-    width:max-content;
+    width: 95%;
+    margin-left: 2.1%;
+    text-align: center;
     margin-top: 2%;
-    padding-right: 31%;
-    padding-left: 40%;
-    margin-left: 2%;
     padding-top: 5%;
     padding-bottom: 5%;
     border-radius: 15px;
 }
 #portfolioLink{
+    display: none;
+    border: 1px solid #7c7676;
+    text-align: center;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 9px;
+}
+#locationDiv{
+    display: flexbox;
+    border: 1px solid #4b3838;
+    margin: 9px;
+    border-radius: 5px;
+}
+#locationButton{
+    width: 95%;
+    margin-left: 2.1%;
+    text-align: center;
+    margin-top: 2%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 15px;
+}
+#locationButton:hover{
+    opacity: 80%;
+    transform: scale(1.01);
+}
+#location{
     display: none;
     border: 1px solid #7c7676;
     text-align: center;
@@ -179,12 +216,15 @@
     margin: 9px;
     border-radius: 5px;
 }
+#socials:hover{
+    opacity: 80%;
+    transform: scale(1.01);
+}
 #socialmediaInfo{
-    width:max-content;
+    width: 95%;
+    margin-left: 2.1%;
+    text-align: center;
     margin-top: 2%;
-    padding-right: 22%;
-    padding-left: 40%;
-    margin-left: 2%;
     padding-top: 5%;
     padding-bottom: 5%;
     border-radius: 15px;
@@ -199,9 +239,9 @@
 }
 #personalDetails{
     position: relative;
-    margin-top: 5%;
-    margin-left: 10px;
-    margin-right: 10px;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 1%;
     padding-top: 5%;
     padding-bottom: 5%;
     padding-left: 37%;
@@ -219,5 +259,5 @@
 }
 #personalDetails:hover{
     opacity: 85%;
-    transform: scale(1.05);
+    transform: scale(1.02);
 }

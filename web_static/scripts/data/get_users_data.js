@@ -12,9 +12,9 @@ async function fetchUserData() {
 
     const data = await response.json();
 
-    await fs.promises.writeFile("data.json", JSON.stringify(data)); // Serialize to JSON
+    await fs.promises.writeFile("stats/user.json", JSON.stringify(data, null, 2)); // Serialize to JSON
 
-    console.log("Data exported to data.json"); // Use the correct filename
+    console.log("Data exported to user.json"); // Use the correct filename
   } catch (error) {
     console.error(error.message);
   }

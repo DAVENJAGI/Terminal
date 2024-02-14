@@ -1,0 +1,450 @@
+[
+  {
+    "name": "0x00-hello_world",
+    "path": "0x00-hello_world",
+    "sha": "d8c3ce6b4c7fb9b969bf79960779b5e6e73f287a",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x00-hello_world?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x00-hello_world",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/d8c3ce6b4c7fb9b969bf79960779b5e6e73f287a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x00-hello_world?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/d8c3ce6b4c7fb9b969bf79960779b5e6e73f287a",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x00-hello_world"
+    }
+  },
+  {
+    "name": "0x01-variables_if_else_while",
+    "path": "0x01-variables_if_else_while",
+    "sha": "0247c8e7172c725d4aff45a4a4d8a5c89734646c",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x01-variables_if_else_while?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x01-variables_if_else_while",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/0247c8e7172c725d4aff45a4a4d8a5c89734646c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x01-variables_if_else_while?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/0247c8e7172c725d4aff45a4a4d8a5c89734646c",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x01-variables_if_else_while"
+    }
+  },
+  {
+    "name": "0x02-functions_nested_loops",
+    "path": "0x02-functions_nested_loops",
+    "sha": "c827cee2dfd08be02762b56dccfd98b31f4a1db5",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x02-functions_nested_loops?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x02-functions_nested_loops",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/c827cee2dfd08be02762b56dccfd98b31f4a1db5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x02-functions_nested_loops?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/c827cee2dfd08be02762b56dccfd98b31f4a1db5",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x02-functions_nested_loops"
+    }
+  },
+  {
+    "name": "0x03-debugging",
+    "path": "0x03-debugging",
+    "sha": "a0ef6a6aa6941f5eaceceaf0c35e35999c599eca",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x03-debugging?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x03-debugging",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/a0ef6a6aa6941f5eaceceaf0c35e35999c599eca",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x03-debugging?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/a0ef6a6aa6941f5eaceceaf0c35e35999c599eca",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x03-debugging"
+    }
+  },
+  {
+    "name": "0x04-more_functions_nested_loops",
+    "path": "0x04-more_functions_nested_loops",
+    "sha": "9544efbf26b7732cee78310900c4991b7b52340d",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x04-more_functions_nested_loops?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/9544efbf26b7732cee78310900c4991b7b52340d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x04-more_functions_nested_loops?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/9544efbf26b7732cee78310900c4991b7b52340d",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops"
+    }
+  },
+  {
+    "name": "0x05-pointers_arrays_strings",
+    "path": "0x05-pointers_arrays_strings",
+    "sha": "9c0d2c33ae87e99b7d44da376cda584698e728cf",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x05-pointers_arrays_strings?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/9c0d2c33ae87e99b7d44da376cda584698e728cf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x05-pointers_arrays_strings?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/9c0d2c33ae87e99b7d44da376cda584698e728cf",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings"
+    }
+  },
+  {
+    "name": "0x06-pointers_arrays_strings",
+    "path": "0x06-pointers_arrays_strings",
+    "sha": "69b8f0b24f5baf62cab80ae3f665d1e0334ccaa1",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x06-pointers_arrays_strings?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/69b8f0b24f5baf62cab80ae3f665d1e0334ccaa1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x06-pointers_arrays_strings?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/69b8f0b24f5baf62cab80ae3f665d1e0334ccaa1",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings"
+    }
+  },
+  {
+    "name": "0x07-pointers_arrays_strings",
+    "path": "0x07-pointers_arrays_strings",
+    "sha": "c0d01479efed5cf8c2b56e36dad96ffa93ab33d8",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x07-pointers_arrays_strings?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/c0d01479efed5cf8c2b56e36dad96ffa93ab33d8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x07-pointers_arrays_strings?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/c0d01479efed5cf8c2b56e36dad96ffa93ab33d8",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings"
+    }
+  },
+  {
+    "name": "0x08-recursion",
+    "path": "0x08-recursion",
+    "sha": "66115fd60675a6e7bb059b0b77091be53b9e903c",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x08-recursion?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x08-recursion",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/66115fd60675a6e7bb059b0b77091be53b9e903c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x08-recursion?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/66115fd60675a6e7bb059b0b77091be53b9e903c",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x08-recursion"
+    }
+  },
+  {
+    "name": "0x09-static_libraries",
+    "path": "0x09-static_libraries",
+    "sha": "aad4652d906ba133771d3b0b944f9c83689c3f3d",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x09-static_libraries?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x09-static_libraries",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/aad4652d906ba133771d3b0b944f9c83689c3f3d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x09-static_libraries?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/aad4652d906ba133771d3b0b944f9c83689c3f3d",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x09-static_libraries"
+    }
+  },
+  {
+    "name": "0x0A-argc_argv",
+    "path": "0x0A-argc_argv",
+    "sha": "4e7c44bf8bf71c2301b541efaaf9abbf14225594",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0A-argc_argv?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0A-argc_argv",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/4e7c44bf8bf71c2301b541efaaf9abbf14225594",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0A-argc_argv?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/4e7c44bf8bf71c2301b541efaaf9abbf14225594",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0A-argc_argv"
+    }
+  },
+  {
+    "name": "0x0B-malloc_free",
+    "path": "0x0B-malloc_free",
+    "sha": "22720b7bfe688256ead7dffa6e9de2e8b0ab9b92",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0B-malloc_free?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0B-malloc_free",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/22720b7bfe688256ead7dffa6e9de2e8b0ab9b92",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0B-malloc_free?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/22720b7bfe688256ead7dffa6e9de2e8b0ab9b92",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0B-malloc_free"
+    }
+  },
+  {
+    "name": "0x0C-more_malloc_free",
+    "path": "0x0C-more_malloc_free",
+    "sha": "7252d920f58bff59257afd3eae2318a587564e30",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0C-more_malloc_free?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0C-more_malloc_free",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/7252d920f58bff59257afd3eae2318a587564e30",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0C-more_malloc_free?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/7252d920f58bff59257afd3eae2318a587564e30",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0C-more_malloc_free"
+    }
+  },
+  {
+    "name": "0x0D-preprocessor",
+    "path": "0x0D-preprocessor",
+    "sha": "0cb1df1eec56eb89affb854fcdd64b01b515f2bf",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0D-preprocessor?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0D-preprocessor",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/0cb1df1eec56eb89affb854fcdd64b01b515f2bf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0D-preprocessor?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/0cb1df1eec56eb89affb854fcdd64b01b515f2bf",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0D-preprocessor"
+    }
+  },
+  {
+    "name": "0x0E-structures_typedef",
+    "path": "0x0E-structures_typedef",
+    "sha": "087a5c5cc9f17de5eab0a4f7ebea53a1c8850e94",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0E-structures_typedef?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0E-structures_typedef",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/087a5c5cc9f17de5eab0a4f7ebea53a1c8850e94",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0E-structures_typedef?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/087a5c5cc9f17de5eab0a4f7ebea53a1c8850e94",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0E-structures_typedef"
+    }
+  },
+  {
+    "name": "0x0F-function_pointers",
+    "path": "0x0F-function_pointers",
+    "sha": "6ab01107549c13f24adb079ba291992953f51cf8",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0F-function_pointers?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0F-function_pointers",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/6ab01107549c13f24adb079ba291992953f51cf8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x0F-function_pointers?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/6ab01107549c13f24adb079ba291992953f51cf8",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x0F-function_pointers"
+    }
+  },
+  {
+    "name": "0x10-variadic_functions",
+    "path": "0x10-variadic_functions",
+    "sha": "e971e444bb5a8c71ae54edd0896c3a4bb9d69a3d",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x10-variadic_functions?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x10-variadic_functions",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/e971e444bb5a8c71ae54edd0896c3a4bb9d69a3d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x10-variadic_functions?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/e971e444bb5a8c71ae54edd0896c3a4bb9d69a3d",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x10-variadic_functions"
+    }
+  },
+  {
+    "name": "0x12-singly_linked_lists",
+    "path": "0x12-singly_linked_lists",
+    "sha": "703e72b56a80671ce377580546ac44191b2f1df0",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x12-singly_linked_lists?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x12-singly_linked_lists",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/703e72b56a80671ce377580546ac44191b2f1df0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x12-singly_linked_lists?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/703e72b56a80671ce377580546ac44191b2f1df0",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x12-singly_linked_lists"
+    }
+  },
+  {
+    "name": "0x13-more_singly_linked_list",
+    "path": "0x13-more_singly_linked_list",
+    "sha": "950d9ecec95272498e21557e1005345a0daecd0c",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x13-more_singly_linked_list?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x13-more_singly_linked_list",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/950d9ecec95272498e21557e1005345a0daecd0c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x13-more_singly_linked_list?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/950d9ecec95272498e21557e1005345a0daecd0c",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x13-more_singly_linked_list"
+    }
+  },
+  {
+    "name": "0x13-more_singly_linked_lists",
+    "path": "0x13-more_singly_linked_lists",
+    "sha": "2a848d8248111d57f495ac9e29be57bdb0b2a30d",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x13-more_singly_linked_lists?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/2a848d8248111d57f495ac9e29be57bdb0b2a30d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x13-more_singly_linked_lists?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/2a848d8248111d57f495ac9e29be57bdb0b2a30d",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists"
+    }
+  },
+  {
+    "name": "0x14-bit_manipulation",
+    "path": "0x14-bit_manipulation",
+    "sha": "bd1deaa63d82dd83fbfb5efb723d4ba1b563e33b",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x14-bit_manipulation?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x14-bit_manipulation",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/bd1deaa63d82dd83fbfb5efb723d4ba1b563e33b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x14-bit_manipulation?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/bd1deaa63d82dd83fbfb5efb723d4ba1b563e33b",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x14-bit_manipulation"
+    }
+  },
+  {
+    "name": "0x15-file_io",
+    "path": "0x15-file_io",
+    "sha": "8f9edbd1743ddc6028a25e4dfc1f838e6895ca26",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x15-file_io?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x15-file_io",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/8f9edbd1743ddc6028a25e4dfc1f838e6895ca26",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x15-file_io?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/8f9edbd1743ddc6028a25e4dfc1f838e6895ca26",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x15-file_io"
+    }
+  },
+  {
+    "name": "0x17-doubly_linked_lists",
+    "path": "0x17-doubly_linked_lists",
+    "sha": "634b23421e15c6adbe981c7f03242b9cb749165c",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x17-doubly_linked_lists?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x17-doubly_linked_lists",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/634b23421e15c6adbe981c7f03242b9cb749165c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x17-doubly_linked_lists?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/634b23421e15c6adbe981c7f03242b9cb749165c",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x17-doubly_linked_lists"
+    }
+  },
+  {
+    "name": "0x18-dynamic_libraries",
+    "path": "0x18-dynamic_libraries",
+    "sha": "7711360617f76166020760f0e0bdbac8995163f4",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x18-dynamic_libraries?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x18-dynamic_libraries",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/7711360617f76166020760f0e0bdbac8995163f4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x18-dynamic_libraries?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/7711360617f76166020760f0e0bdbac8995163f4",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x18-dynamic_libraries"
+    }
+  },
+  {
+    "name": "0x1A-hash_tables",
+    "path": "0x1A-hash_tables",
+    "sha": "d56dafe765c0d8152b2daedfeb2ffe648d4cdf40",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x1A-hash_tables?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x1A-hash_tables",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/d56dafe765c0d8152b2daedfeb2ffe648d4cdf40",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x1A-hash_tables?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/d56dafe765c0d8152b2daedfeb2ffe648d4cdf40",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x1A-hash_tables"
+    }
+  },
+  {
+    "name": "0x1C-makefiles",
+    "path": "0x1C-makefiles",
+    "sha": "dc87c2e32823ed7ecd205b1db9dd74f2d124ca12",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x1C-makefiles?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x1C-makefiles",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/dc87c2e32823ed7ecd205b1db9dd74f2d124ca12",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x1C-makefiles?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/dc87c2e32823ed7ecd205b1db9dd74f2d124ca12",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x1C-makefiles"
+    }
+  },
+  {
+    "name": "0x1E-search_algorithms",
+    "path": "0x1E-search_algorithms",
+    "sha": "26f0d22aaff54cbb095b0d7daee380728e5e2a4f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x1E-search_algorithms?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x1E-search_algorithms",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/26f0d22aaff54cbb095b0d7daee380728e5e2a4f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/0x1E-search_algorithms?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/trees/26f0d22aaff54cbb095b0d7daee380728e5e2a4f",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/tree/master/0x1E-search_algorithms"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "7e3f7a224f91b525f20bd94863c20f92eb693d9b",
+    "size": 32,
+    "url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/README.md?ref=master",
+    "html_url": "https://github.com/DAVENJAGI/alx-low_level_programming/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/blobs/7e3f7a224f91b525f20bd94863c20f92eb693d9b",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/alx-low_level_programming/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/DAVENJAGI/alx-low_level_programming/git/blobs/7e3f7a224f91b525f20bd94863c20f92eb693d9b",
+      "html": "https://github.com/DAVENJAGI/alx-low_level_programming/blob/master/README.md"
+    }
+  }
+]

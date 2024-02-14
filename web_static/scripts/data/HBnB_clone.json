@@ -1,0 +1,146 @@
+[
+  {
+    "name": "AUTHORS",
+    "path": "AUTHORS",
+    "sha": "e3684987088f048cd668675be5696230c2c4a105",
+    "size": 94,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/AUTHORS?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/AUTHORS",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/e3684987088f048cd668675be5696230c2c4a105",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/HBnB_clone/DAVE/AUTHORS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/AUTHORS?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/e3684987088f048cd668675be5696230c2c4a105",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/AUTHORS"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "5b732fe5047ac28da2d6b40624bb3af9d32c3c54",
+    "size": 3058,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/README.md?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/README.md",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/5b732fe5047ac28da2d6b40624bb3af9d32c3c54",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/HBnB_clone/DAVE/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/README.md?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/5b732fe5047ac28da2d6b40624bb3af9d32c3c54",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/README.md"
+    }
+  },
+  {
+    "name": "__init__.py",
+    "path": "__init__.py",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/__init__.py?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/__init__.py",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/HBnB_clone/DAVE/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/__init__.py?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/__init__.py"
+    }
+  },
+  {
+    "name": "__pycache__",
+    "path": "__pycache__",
+    "sha": "d2e95091dbf75f616ba2ef3a6ab2b7bfc8922e2f",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/__pycache__?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/__pycache__",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/d2e95091dbf75f616ba2ef3a6ab2b7bfc8922e2f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/__pycache__?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/d2e95091dbf75f616ba2ef3a6ab2b7bfc8922e2f",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/__pycache__"
+    }
+  },
+  {
+    "name": "engine",
+    "path": "engine",
+    "sha": "9d1dcfdaf1a6857c5f83dc27019c7600e1ffaff8",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/engine?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/engine",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/9d1dcfdaf1a6857c5f83dc27019c7600e1ffaff8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/engine?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/9d1dcfdaf1a6857c5f83dc27019c7600e1ffaff8",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/engine"
+    }
+  },
+  {
+    "name": "file.json",
+    "path": "file.json",
+    "sha": "36e926883a2044c610dccffd554ff7b50568e132",
+    "size": 85321,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/file.json?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/file.json",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/36e926883a2044c610dccffd554ff7b50568e132",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/HBnB_clone/DAVE/file.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/file.json?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/36e926883a2044c610dccffd554ff7b50568e132",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/file.json"
+    }
+  },
+  {
+    "name": "models",
+    "path": "models",
+    "sha": "689431222b84ef1e4f9e1d2426ed5fd1d3041e82",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/models?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/models",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/689431222b84ef1e4f9e1d2426ed5fd1d3041e82",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/models?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/689431222b84ef1e4f9e1d2426ed5fd1d3041e82",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/models"
+    }
+  },
+  {
+    "name": "test_base_model_dict.py",
+    "path": "test_base_model_dict.py",
+    "sha": "47071e66289d28763261bad6ddac42324f21f200",
+    "size": 603,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/test_base_model_dict.py?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/test_base_model_dict.py",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/47071e66289d28763261bad6ddac42324f21f200",
+    "download_url": "https://raw.githubusercontent.com/DAVENJAGI/HBnB_clone/DAVE/test_base_model_dict.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/test_base_model_dict.py?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/blobs/47071e66289d28763261bad6ddac42324f21f200",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/blob/DAVE/test_base_model_dict.py"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "d422c69efdd636648cacd61002860706d5acc642",
+    "size": 0,
+    "url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/tests?ref=DAVE",
+    "html_url": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/tests",
+    "git_url": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/d422c69efdd636648cacd61002860706d5acc642",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/contents/tests?ref=DAVE",
+      "git": "https://api.github.com/repos/DAVENJAGI/HBnB_clone/git/trees/d422c69efdd636648cacd61002860706d5acc642",
+      "html": "https://github.com/DAVENJAGI/HBnB_clone/tree/DAVE/tests"
+    }
+  }
+]

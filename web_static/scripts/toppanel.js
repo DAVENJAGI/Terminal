@@ -1,10 +1,10 @@
 function displayName() {
   const ownerName = document.getElementById('ownerName');
   const ownerButton = document.getElementById('topPanelHeaderButton1');
-
+  /*
   async function fetchUsernameData() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaggggg');*/
+      /*const response = await fetch('https://api.github.com/users/davenjaggggg');
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -14,7 +14,7 @@ function displayName() {
       ownerName.textContent = '-';
     }
   }
-  fetchUsernameData();
+  fetchUsernameData();*/
   
   ownerButton.addEventListener('mouseover', () => {
     ownerName.style.transform = 'scale(1.05)';
@@ -29,10 +29,10 @@ window.onload = displayName;
 function displayCreatedAt() {
   const createdAt = document.getElementById('createdAt');
   const commitsButton = document.getElementById('topPanelHeaderButton3');
-
+  /*
   async function fetchRepoCreatedAt() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaghg');*/
+      const response = await fetch('https://api.github.com/users/davenjaghg');
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -42,7 +42,7 @@ function displayCreatedAt() {
       createdAt.textContent = '-';
     }
   }
-  fetchRepoCreatedAt();
+  fetchRepoCreatedAt();*/
 
   commitsButton.addEventListener('mouseover', () => {
     createdAt.style.transform = 'scale(1.05)';
@@ -57,10 +57,10 @@ window.onload = displayCreatedAt;
 function displayNoRepos() {
   const repoNumber = document.getElementById('repoNumber');
   const reposButton = document.getElementById('topPanelHeaderButton2');
-
+  /*
   async function fetchRepoNumber() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaghg');*/
+      const response = await fetch('https://api.github.com/users/davenjaghg
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -70,7 +70,7 @@ function displayNoRepos() {
       repoNumber.textContent = '-';
     }
   }
-  fetchRepoNumber();
+  fetchRepoNumber();*/
 
   reposButton.addEventListener('mouseover', () => {
     repoNumber.style.transform = 'scale(1.05)';
@@ -85,10 +85,10 @@ window.onload = displayNoRepos;
 function displayPrivateRepos() {
   const privateRepos = document.getElementById('privateRepos');
   const privateRepoButton = document.getElementById('topPanelHeaderButton4');
-
+  /*
   async function fetchPrivateRepoNumber() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaghg');*/
+      const response = await fetch('https://api.github.com/users/davenjaghg
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -98,7 +98,7 @@ function displayPrivateRepos() {
       privateRepos.textContent = '-';
     }
   }
-  fetchPrivateRepoNumber();
+  fetchPrivateRepoNumber();*/
 
   privateRepoButton.addEventListener('mouseover', () => {
     privateRepos.style.transform = 'scale(1.05)';
@@ -114,9 +114,10 @@ function displayPublicRepos() {
   const publicRepos = document.getElementById('publicRepos');
   const publicRepoButton = document.getElementById('topPanelHeaderButton5');
 
+  /*
   async function fetchPublicRepoNumber() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaghg');*/
+      const response = await fetch('https://api.github.com/users/davenjaghg');
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -126,7 +127,7 @@ function displayPublicRepos() {
       publicRepos.textContent = '-';
     }
   }
-  fetchPublicRepoNumber();
+  fetchPublicRepoNumber();*/
 
   publicRepoButton.addEventListener('mouseover', () => {
     publicRepos.style.transform = 'scale(1.05)';
@@ -140,10 +141,10 @@ window.onload = displayPublicRepos;
 function displayUpdatedAt() {
   const updatedAt = document.getElementById('updatedAt');
   const contributionsButton = document.getElementById('topPanelHeaderButton6');
-
+  /*
   async function fetchUpdatedAt() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaghg');*/
+      const response = await fetch('https://api.github.com/users/davenjaghg');
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -153,7 +154,7 @@ function displayUpdatedAt() {
       updatedAt.textContent = '-';
     }
   }
-  fetchUpdatedAt();
+  fetchUpdatedAt();*/
 
 
   contributionsButton.addEventListener('mouseover', () => {
@@ -169,10 +170,10 @@ window.onload = displayUpdatedAt;
 function displayEmail() {
   const email = document.getElementById('emailDisplay');
   const emailButton = document.getElementById('topPanelHeaderButton7');
-
+  /*
   async function fetchEmail() {
     try {
-      /*const response = await fetch('https://api.github.com/users/davenjaghg');*/
+      const response = await fetch('https://api.github.com/users/davenjaghg');
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
@@ -182,7 +183,7 @@ function displayEmail() {
       email.textContent = '-';
     }
   }
-  fetchEmail();
+  fetchEmail();*/
 
   emailButton.addEventListener('mouseover', () => {
     email.style.transform = 'scale(1.05)';

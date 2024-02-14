@@ -15,12 +15,16 @@
     <link rel="stylesheet" href="styles/bottompanel.css"></link>
     <link rel="stylesheet" href="styles/repostats.css"></link>
     <link rel="stylesheet" href="styles/directorystat.css"></link>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></link>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="text/javascript" src="scripts/data_analysis.js"></script>
+    <script type="text/javascript" src="scripts/repository_styling.js"></script>
     <script type="text/javascript" src="scripts/profile_window.js"></script>
     <script type="text/javascript" src="scripts/sidecontainer.js"></script>
+    <script type="text/javascript" src="scripts/repository_stats.js"></script>
+    <script type="text/javascript" src="scripts/profile_data.js"></script>
     <script type="text/javascript" src="scripts/toppanel.js"></script>
-    <script type="text/javascript" src="scripts/stats/githubstats_barchart.js"></script>
     <script type="text/javascript" src="scripts/header.js"></script>
 </head>
 <body id="body">
@@ -40,11 +44,11 @@
             <div id="profileNumbers">
                 <div id="followers">
                     <h2>Followers</h2>
-                    <h3 id="followers_number">0</h3>
+                    <h3 id="followers_number"></h3>
                 </div>
                 <div id="following">
                     <h2>Following</h2>
-                    <h3 id="following_number">12</h3>
+                    <h3 id="following_number"></h3>
                 </div>
             </div>
             <div id="aboutDiv">
@@ -53,16 +57,20 @@
                 </h4>
             </div>
             <div>
-                <div>
+                <div id="otherDetails">
                     <button id="personalDetails" onclick="showUserDetails()">Other Details</button>
-                    <div id="otherInfomation">
+                    <div id="otherInformation">
                         <div id="organization">
-                            <button id="companyName" onclick="showCompanyName()">Company name: </button>
+                            <button id="companyName" onclick="showCompanyName()">Organization: </button>
                             <h4 id="companyOrganization">Bidco Africa</h4>
                         </div>
                         <div id="portfolio">
                             <button id="portfolioInfo" onclick="showPortfolioLink()">Portfolio link: </button>
                             <h4 id="portfolioLink"><a href=https://www.davenjagi.tech>davenjagi.tech</a></h4>
+                        </div>
+                        <div id="locationDiv">
+                            <button id="locationButton" onclick="showLocation()">Location</button>
+                            <h4 id="location"></h4>
                         </div>
                         <div id="socials">
                             <button id="socialmediaInfo" onclick="showSocialPrescence()">Social prescence: </button>
@@ -93,7 +101,9 @@
                     <button id="topPanelHeaderButton4" onmouseover="displayPrivateRepos()">Private Repos </button>
                     <button id="topPanelHeaderButton5" onmouseover="displayPublicRepos()">Public Repos </button>
                     <button id="topPanelHeaderButton7" onmouseover="displayEmail()">email </button>
-                    <button id="topPanelHeaderDropdown" onclick="displayInfoDiv()"></button>
+                    <button id="topPanelHeaderDropdown" onclick="displayInfoDiv()">
+                        <i class="fas fa-angle-down"></i>
+                    </button>
                     <div id="infoDiv">
                         <h5 id="ownerName"></h5>
                         <h5 id="repoNumber"></h5>
@@ -105,7 +115,7 @@
                     </div>
                     </div>
                 </div>
-                <div id="barChart"></div>
+                <div id="barChart1"></div>
                 <div id="lineChart"></div>
                 <div id="pieCharts"></div>
                 <div id="horrizontalChart"></div>
@@ -170,20 +180,22 @@
                     <select id="topPanelRepoButton1">
                         <option onclick="displayName()">Repositories</option>
                     </select>
-                    <button id="topPanelRepoButton2" onclick="displayNoRepos()">No of Directories </button>
-                    <button id="topPanelRepoButton3" onclick="displayTotalCommits()">Stars </button>
-                    <button id="topPanelRepoButton4" onclick="displayPrivateRepos()">Fork Status </button>
-                    <button id="topPanelRepoButton5" onclick="displayPublicRepos()">Created at</button>
-                    <button id="topPanelRepoButton6" onclick="displayContributions()">Updated at</button>
-                    <button id="topPanelRepoButton8" onclick="displayEmail()">Number of stars </button>
-                    <button id="topPanelRepoDropdown" onclick="displayRepoInfoDiv()">v</button>
+                    <button id="topPanelRepoButton2" onmouseover="displayNoDirs()">No of Directories </button>
+                    <button id="topPanelRepoButton3" onmouseover="displayNoFiles()">No of Files </button>
+                    <button id="topPanelRepoButton4" onmouseover="displayVisibility()">Visibility</button>
+                    <button id="topPanelRepoButton5" onmouseover="displayCreatedAtRepo()">Created at</button>
+                    <button id="topPanelRepoButton6" onmouseover="displayUpdatedAtRepo()">Updated at</button>
+                    <button id="topPanelRepoButton8" onmouseover="displayOpenIssues()">Open Issues </button>
+                    <button id="topPanelRepoDropdown" onclick="displayRepoInfoDiv()">
+                        <i class="fas fa-angle-down"></i>
+                    </button>
                     <div id="repoInfoDiv">
-                        <h5 id="directoryNumber"> 18 </h5>
-                        <h5 id="starsNumber"> 1,850 </h5>
-                        <h5 id="forkStatus"> 5 </h5>
-                        <h5 id="createdAt"> 13 </h5>
-                        <h5 id="updatedAt"> 17 </h5>
-                        <h5 id="numberOfStars">21</h5>
+                        <h5 id="directoryNumber"></h5>
+                        <h5 id="fileNumber"></h5>
+                        <h5 id="visibility"></h5>
+                        <h5 id="createdAt1"></h5>
+                        <h5 id="updatedAt1"></h5>
+                        <h5 id="openIssues"></h5>
                     </div>
                 </div>
                 <div id="lineChart"></div>

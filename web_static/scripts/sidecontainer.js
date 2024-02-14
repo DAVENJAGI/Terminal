@@ -6,7 +6,7 @@ function dropCommits() {
     commitPlotGraph.style.display = 'none';
   }
 }
-
+/*
 function showUserDetails() {
   const commitPlotGraph = document.getElementById('commitPlotGraph');
   if (commitPlotGraph.style.display === 'none') {
@@ -15,7 +15,7 @@ function showUserDetails() {
     commitPlotGraph.style.display = 'none';
   }
 }
-
+*/
 
 function dropPullRequests() {
   const requestsPlotGraph = document.getElementById('requestsPlotGraph');
