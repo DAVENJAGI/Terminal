@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terminal</title>
+    <link rel="stylesheet" href="static/container.css"></link>
+    <link rel="stylesheet" href="static/imagesdisplay.css"></link>
+    <link rel="stylesheet" href="static/userdata.css"></link>
+    <link rel="stylesheet" href="static/header.css"></link>
+    <script type="text/javascript" src="static/enterNameButton.js"> </script>
+    <script type="text/javascript" src="static/getdata.js"> </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></link>
+</head>
+<body class="body">
+    <div class="container">
+        <div id="header">
+            <div id="loginInfo" onclick="showEnterLoginInfo()"></div>
+            
+        </div>
+        <div class="topnav">
+            <div id="homeDiv">
+                <a class="active" href="#introData" id="introDataLink">Home</a>
+            </div>
+            <div id="featuresId">
+                <a href="#overallDisplay" id="overallDisplayLink">Features</a>
+            </div>
+            <div id="contactId">
+                <a href="#contact" id="overallRepoDisplayLink">Contact</a>
+            </div>
+            <div id="aboutDiv">
+                <a href="#dropdownButton" id="about">About</a>
+            </div>
+        </div>
+        <div id="enterUserData">
+            <div id="elementsBorder">
+                <button id="enterNameButton" onclick="showEnterUsername()">Enter Your Github Info</button>
+                <form>
+                    <div id="enterInfo">
+                        <label for="name">Enter your github username: </label>
+                        <input type="text" id="name" name="name">
+
+                        <label for="token">Enter Auth Token: </label>
+                        <input type="text" id="token" name="token">
+
+                        <button id="submitButton">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div id="infoDiv">
+            
+            <div id="introData">
+                <div id="infoDivBackground">
+                    <h1 id="introInfoH1">
+                        Hello there!!
+                    </h1>
+                    <h2 id="introInfoH2">
+                        Welcome to Terminal, a world where we crunch for you your GitHub data bit by bit.
+                        Whether you need the analysis, visualization, Terminal is here to help you with that. Click "Enter Your Github Username" button to unlock the endless possibilities Terminal has got for you. Join us and lets dive into the world of your GitHub data together.
+                    </h2>
+                    <div id="dataGifs">
+                        <div id="dataGif1"></div>
+                        <span id="countdown"></span>
+                    </div>
+                </div>
+            </div>
+            <div id="overallDisplay">
+                <div id="overallDisplayInfo">
+                    <h5 id="text1">Imagine a sleek information box housing your profile details. This box prominently displays your username, alongside the dates it was created and last updated. To the side, two numbers showcase your total and public repositories, offering a quick glimpse into your coding activity.</h5> 
+                </div>
+            </div>
+            <div id="overallRepoDisplay">
+                <div id="overallRepoDisplayInfo">
+                    <h3 id="repoText">But there's more! Click the dropdown arrow, and voila! A hidden section expands, revealing all the information again, presented in a details for closer inspection. This intuitive design gives you both a concise overview and the option to delve deeper, making it a versatile tool for you.  This intuitive design gives you both a concise overview and the option to delve deeper, making it a versatile tool for showcasing your coding prowess. Unleash the Power of Code Organization with Effortless Visibility and Control. Take command of your repositories with a streamlined dashboard designed for intuitive exploration and efficient management. Effortlessly select your preferred repository using a clear, well-presented dropdown menu. Beneath it, neatly arranged divs instantly display key metrics: Number of directories: Gain a quick overview of your codebase structure.
+                        Number of files: Gauge the depth and complexity of each repository.
+                        For a comprehensive view, utilize the designated dropdown to expand a hidden div, revealing detailed information about your chosen repository. This thoughtful design minimizes clutter, ensuring that critical data is always readily accessible while maintaining a clean and user-friendly interface.<h3>
+                </div>
+                <div id="overallRepoDisplayPhoto">
+                    <div id="repoPhoto1"></div>
+                    <div id="repoPhoto2"></div>
+                    <div id="repoPhoto3"></div>
+                    <div id="repoPhoto4"></div>
+                </div>
+            </div>
+            <button id="dropdownButton" onclick ="showAbout()">
+                <h3 id="aboutText">About</h3>
+                <i class="fas fa-angle-up" id="toggleDown"></i>
+            </button>
+            <div id="bottom">
+                
+                <div id="projectAbout">
+                    <h2>Streamline your GitHub workflow with Terminal, a powerful front-end dashboard that puts insightful analysis at your fingertips. Effortlessly track repository progress, visualize trends, and identify key metrics—all within a sleek, user-friendly interface. Empower your development process and gain invaluable insights into your GitHub activity.</h2>
+                </div>
+                <div id="projectBy">
+                    <h2 id="projectByText">Project by: Dave njagi</h2>
+                    <div id="icon"></div>
+                    <h2 id="projectByLink">Portfolio: <a href=https://www.davenjagi.tech>davenjagi.tech</a></h2>
+                    <h2 id="projectByEmail">email: davenjagi@gmail.com</h2>
+                </div>
+                <div id="links">
+                    <h2 id="projectRepo">Project repository</h2>
+                    <div id="githubIcon"></div>
+                    <h2 id="projectByLink">Portfolio: <a href=https://github.com/DAVENJAGI/Terminal><h1 id="repositoryLink">REPOSITORY</h1></a></h2>
+                </div>
+            </div>
+        </div> 
+          
+    </div>
+</body>
+</html>

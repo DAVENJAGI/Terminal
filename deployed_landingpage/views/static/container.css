@@ -1,0 +1,238 @@
+body{
+    margin: 0;
+    background-color: #24292E;
+    animation: border-lighten 45s ease-in-out infinite alternate;
+    opacity: 95%;
+    
+}
+
+@keyframes border-lighten {
+    0% { background-color: linear-gadient(to right, #d3b428, #24f52e); }
+    10% { background-color: #ff6e0d;  }
+    20% { background-color: #af6d6d; }
+    30% { background-color: #7ef113; }
+    40% { background-color: #f5cb8d; }
+    50% { background-color: #bdf524; }
+    60% { background-color: #80f54a; }
+    70% { background-color: #b6f524; }
+    80% { background-color: #9fad1f; }
+    90% { background-color: #f5ac24; }
+    10% { background-color: #ce91dd; }
+}
+
+.container{
+    margin: 2px;
+    width: 99.7%;
+    height: 99.3vh;
+    border: 1px transparent #79f569;
+    border-radius: 15px;
+    background-color: #24292E;
+    background-image: url("styles/images/disp6.gif");
+    background-blend-mode: darken;
+    box-shadow: 10px #f5efef;
+    position: relative;
+    overflow: auto;
+    background: #1f101fa8;
+    
+}
+#infoDiv{
+    position: relative;
+    border: 1px dotted greenyellow;
+    margin-top: 19vh;
+    margin-left: 2vh;
+    width: 96%;
+    height: 96vh;
+    border-radius: 10px;
+    opacity: 90%;
+    z-index: 999;
+    overflow: auto;
+    
+    
+}
+#infoDiv:hover{
+    background-color: transparent;
+}
+#introData{
+    border: 1px solid white;
+    margin: 4vh;
+    height: 96vh;
+    border-radius: 15px;
+    opacity: 89%;
+    z-index: 996;
+}
+
+
+#submitButton:hover{
+    opacity: 80%;
+    color: #06090c;
+}
+
+#introInfoH1{
+    color: white;
+    margin: 2vh;
+    z-index: 994;
+}
+#introInfoH2{
+    color: white;
+    margin: 2vh;
+}
+#dataGifs{
+    border: 1px dotted transparent ;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    width: 99%;
+    margin-top: 0vh;
+    height: 45vh;
+    margin-left: 0;
+    border-radius: 9px;
+    opacity: 0.2;
+}
+#dataGif1{
+    border: 1px transparent white;
+    margin: 1vh;
+    width: 98%;
+    margin-top: 1vh;
+    height: 96%;
+    border-radius: 10px;
+    border: transparent;
+    background-image: url("styles/images/disp4.gif");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-y: 95%;
+    background-position-x: 80%;
+    background-blend-mode: darken;
+    background-size: cover;
+    border-image-outset: 2px;
+}
+
+#dataGif1{
+    animation: gifAnimation 20s infinite linear;
+}
+@keyframes gifAnimation {
+    0% {
+        opacity: 0.8;
+        transform: scale(1);
+    }
+    10% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    20% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    30% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    40% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0;
+        transform: scale(1);
+        background-image: url("styles/images/disp6.gif");
+        
+    }
+    60% {
+        opacity: 1;
+        transform: scale(1);
+        background-image: url("styles/images/disp6.gif");
+    }
+    70% {
+        opacity: 1;
+        transform: scale(1);
+        background-image: url("styles/images/disp5.gif");
+    }
+    80% {
+        opacity: 1;
+        transform: scale(1);
+        
+    }
+    90% {
+        opacity: 1;
+        transform: scale(1);
+        
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1);
+        transition: 0.05ms;
+    }    
+}
+#introData{
+    z-index: 899;
+}
+#infoDivBackground{
+    z-index: 900;
+    background-blend-mode: darken;
+
+}
+#infoDivBackground:hover {
+    transform: scale(1.01);
+}
+#introData{
+    border: 1px transparent;
+    width: 98%;
+    z-index: 100;
+    border-radius: 20px;
+    margin: 1vh;
+    animation: introDivAnimation 20s infinite linear;
+    background-image: url("style/images/disp6.gif");
+    background-color: #363434;
+   
+}
+@keyframes introDivAnimation {
+    
+    0% {
+        background-image: url("styles/images/disp4.gif");
+        background-blend-mode: darken;
+        background-color: #575454;
+        transform: scale(1);
+ 
+    }
+    10% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(1);
+    }
+    30% {
+        transform: scale(1);
+    }
+    40% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1);
+        background-image: url("styles/images/disp6.gif");
+        background-blend-mode: darken;
+        
+    }
+    60% {
+        transform: scale(1);
+        background-image: url("styles/images/disp5.gif");
+        background-blend-mode: darken;
+        
+    }
+    70% {
+        transform: scale(1);
+        background-color: #24292E;
+        background-image: url("styles/images/disp5.gif");
+        background-blend-mode: darken;
+       
+    }
+    80% {
+        transform: scale(1);
+        
+    }
+    90% {
+        transform: scale(1);
+        
+    }
+    100% {
+        transform: scale(1);
+    }    
+}
+
