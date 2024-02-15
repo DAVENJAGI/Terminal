@@ -1,4 +1,9 @@
-function displayGreetings() {
+async function displayGreetings() {
+  try {
+    const response = await fetch('scripts/data/user.json')
+    const parsedData = await response.json();
+    
+    const name = parsedData.login;
     const greetingsElement = document.getElementById('greetings');
     const date = new Date();
     const hours = date.getHours();
@@ -11,7 +16,9 @@ function displayGreetings() {
     };
   
     let greeting = "";
-    if (hours < 12) {
+    if (hours < 3) {
+      greeting = greetings.night;
+    } else if (hours < 12) {
       greeting = greetings.morning;
     } else if (hours < 17) {
       greeting = greetings.afternoon;
@@ -22,13 +29,15 @@ function displayGreetings() {
     }
     greetingsElement.style.width = '80%';
   
-    let name = "DAVE";
   
     if (greetingsElement) {
       greetingsElement.textContent = `${greeting}, ${name}!`; 
     } else {
       console.log('${greeting}, ${name}');
     }
+  } catch(error) {
+    console.log("error is: ", error);
+  }
 }
 setInterval(displayGreetings, 3600000);
 window.onload = displayGreetings;

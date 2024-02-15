@@ -1,0 +1,105 @@
+#enterUserData{
+    display: none;
+    position: fixed;
+    border: 1px solid transparent;
+    margin-top: 7vh;
+    width: 100%;
+    height: 96vh;
+    border-radius: 15px;
+    opacity: 89%;
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 1500;
+    padding-top: 25vh
+    
+}
+#enterUserData:hover {
+    transform: scale(1.001);
+}
+#elementsBorder{
+    border: 1px solid #ffffff85;
+    width: 75%;
+    margin-left: 12.5%;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+#enterNameButton{
+    width: 60%;
+    height: 4vh;
+    margin-left: 20%;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    animation: colourMixing 30s infinite linear;
+    border-radius: 9px;
+}
+@keyframes colourMixing{
+    0% { background: #1ffccc; }
+    25% { background: #44f044; }
+    50% { background: #dff044; }
+    75% { background: #c405b4; }
+    100% { background: #37dd04; }
+}
+
+#enterNameButton:hover{
+    opacity: 80%;
+}
+#name{
+    width: 95%;
+    height: 5vh;
+    margin-left: 2%;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #06090c;
+    color: white;
+    font-weight: 700;
+    font-size: larger;
+}
+#submitButton{
+    margin-top: 4%;
+    margin-left: 2%;
+    width: 96%;
+    height: 5vh;
+    border-radius: 10px;
+    animation: buttonColorMixing 30s infinite linear;
+}
+@keyframes buttonColorMixing {
+    0% { border-end-start-radius: orange; background: #1ffccc; }
+    25% { border-color: green; background: #dff044; }
+    40% { border-color: rgb(133, 133, 5); }
+    50% { border-color: purple; background: #44f044; }
+    65% { border-color: blueviolet;  }
+    75% { border-color: #26c91198; background: #37dd04; }
+    100% { border-end-end-radius: brown; background: #c405b4; }
+}
+#enterInfo{
+    display: ;
+    border: 1px solid #575454;
+    width: 60%;
+    margin-top: 3vh;
+    margin-left: 20%;
+    border-radius: 15px;
+    opacity: 89%;
+    background-color: #24292E;
+    margin-bottom: 2vh;
+    color: white;
+    font-weight: 700;
+    text-align: 40%;
+    padding: 2%;
+}
+#token{
+    display: block;
+    width: 95%;
+    height: 5vh;
+    margin-left: 2%;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    text-justify: auto;
+    border-radius: 8px;
+    background-color: #06090c;
+    color: white;
+    font-weight: 700;
+    font-size: larger;
+}

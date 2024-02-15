@@ -1,0 +1,415 @@
+#overallDisplay{
+    border: 1px transparent white;
+    width: 95%;
+    margin-top: 8%;
+    height: 80vh;
+    border-radius: 9px;
+    display: flex;
+    padding: 2%;
+    padding-top: 10%;
+    animation: topDashAnimation 30s infinite cubic-bezier(0.4, 0, 0.2, 1);
+    
+}
+@keyframes topDashAnimation {
+    0% { 
+        background-image: url("./images/profileimages/overallgithubstats.png");
+        background-size: cover;
+        background-color: hsla(0, 4%, 15%, 0.99);
+        background-repeat: no-repeat;
+        transform: scale(1);
+    }
+
+    25% { 
+        background: url("./images/profileimages/header.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: hwb(86 14% 75% / 0.99);
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+
+    }
+    50% { 
+        background: url("./images/profileimages/overallgithubstats.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+        opacity: 0.9;
+        
+    }
+    75% { 
+        background: url("./images/profileimages/overallgithubstats1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+    85% { 
+        background: url("./images/profileimages/profileinfo.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+    100% { 
+        background: url("./images/profileimages/moreprofile.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+}
+
+/*
+#overallDisplayPhoto{
+    display: inline-block;
+    width: 85%;
+    height: 80vh;
+    align-self: center;
+    border: 1px transparent white;
+    border-radius: 18px;
+    background-color: #000008cc;
+    box-shadow: inset 0 0 2px #00000033;;
+    animation: dashAnimation 30s infinite cubic-bezier(0.4, 0, 0.2, 1);
+}
+@keyframes dashAnimation {
+    0% { 
+        background: url("./images/profileimages/overalldashboard.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+    }
+
+    25% { 
+        background: url("./images/profileimages/header.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+
+    }
+    50% { 
+        background: url("./images/profileimages/overallgithubstats.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+        opacity: 0.9;
+        
+    }
+    75% { 
+        background: url("./images/profileimages/overallgithubstats1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+    85% { 
+        background: url("./images/profileimages/profileinfo.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+    100% { 
+        background: url("./images/profileimages/moreprofile.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+}*/
+
+#overallDisplayInfo{
+    display: inline;
+    border: transparent 1px red;
+    margin-left: 72%;
+    margin-top: 50vh;
+    width: 30%;
+    height: 25%;
+    overflow: auto;
+    border-radius: 10px;
+    background: transparent;
+    color: black;
+    padding: 2%;
+}
+#text{
+    color: white;
+}
+
+#overallRepoDisplay{
+    border: 1px transparent white;
+    width: 98%;
+    margin: 2vw;
+    margin-top: 3%;
+    height: 95vh;
+    border-radius: 9px;
+    display: flex;
+    animation: featuresAnimation 45s infinite cubic-bezier(0.4, 0, 0.2, 1);
+}
+@keyframes featuresAnimation {
+    0% { 
+        background: url("./images/repositorystats.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+    }
+
+    25% { 
+        background: url("./images/repositorystats2.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+
+    }
+    50% { 
+        background: url("./images/repositorystats3.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+        opacity: 0.9;
+        
+    }
+    75% { 
+        background: url("./images/repositorystats4.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+    100% { 
+        background: url("./images/repositorystats4.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+}
+
+
+/*
+#overallRepoDisplayPhoto{
+    display: inline;
+    width: 75%;
+    height: 60vh;
+    margin: 0;
+    align-self: center;
+    margin-left: 2vw;
+    border: 1px solid white;
+    border-radius: 18px;
+    overflow: auto;
+    animation: featuresAnimation 45s infinite cubic-bezier(0.4, 0, 0.2, 1);
+}
+@keyframes featuresAnimation {
+    0% { 
+        background: url("./images/repositorystats.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+    }
+
+    25% { 
+        background: url("./images/repositorystats2.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+
+    }
+    50% { 
+        background: url("./images/repositorystats3.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+        opacity: 0.9;
+        
+    }
+    75% { 
+        background: url("./images/repositorystats4.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+    100% { 
+        background: url("./images/repositorystats4.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        transform: scale(1);
+        transition: background-image 0.5ms ease-in-out;
+    }
+}
+*/
+#overallRepoDisplayInfo{
+    display: block;
+    border: trans 1px red;
+    margin-left: 69%;
+    margin-top: 55vh;
+    width: 30%;
+    height: 32vh;
+    overflow: auto;
+    border-radius: 10px;
+    padding: 1%;
+}
+#text1{
+    color: rgb(236, 231, 231);
+    background-color: transparent;
+    font-family: cursive;
+    font-style: italic;
+    margin-top: 0;
+    font-weight: 700;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    animation: textOverall 2s ease-in-out both;
+}
+@keyframes textOverall {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+#overallDisplayInfo:hover {
+    animation: textStyle 0.5s ease-in-out both;
+  }
+@keyframes textStyle {
+    0% {
+        background-color: transparent;
+    }
+    100% {
+        background-color: rgba(255, 255, 153, 0.2);
+    }
+}
+/*
+#photo1{
+    display: inherit;
+    background: url("./images/overallgithubstats.png");
+    border: 1px transparent white;
+    width: 95%;
+    margin: 2%;
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0%;
+    background-position-x: 8%;
+    background-size: cover;
+    border-radius: 10px;
+}
+#photo2{
+    display: inherit;
+    border: 1px transparent white;
+    width: 95%;
+    margin: 2%;
+    height: 10vh;
+    background: url("./images/overallgithubstats1.png");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-y: 9%;
+    background-position-x: 8%;
+    background-size: cover;
+    border-image-outset: 2px;
+    border-radius: 10px;
+    margin-top: 5px;
+}*/
+/*
+#repoPhoto1{
+    background: url("./images/repositorystats.png");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-y: 9%;
+    background-position-x: 8%;
+    background-size: cover;
+    border-image-outset: 2px;
+    border-radius: 18px;
+    border: 1px transparent white;
+    width: 100%;
+    height: 25vh;
+    margin-bottom: 3px;
+    
+}
+#repoPhoto2{
+    background: url("./images/repositorystats2.png");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-y: 9%;
+    background-position-x: 8%;
+    background-size: cover;
+    border-image-outset: 2px;
+    border-radius: 18px;
+    border: 1px transparent white;
+    width: 100%;
+    height: 25vh;
+    margin-bottom: 3px;
+}
+#repoPhoto3{
+    background: url("./images/repositorystats3.png");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-y: 9%;
+    background-position-x: 8%;
+    background-size: cover;
+    border-image-outset: 2px;
+    border-radius: 18px;
+    border: 1px transparent white;
+    width: 100%;
+    height: 25vh;
+    margin-bottom: 3px;
+}
+#repoPhoto4{
+    background: url("./images/repositorystats4.png");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-y: 9%;
+    background-position-x: 11%;
+    background-size: cover;
+    border-image-outset: 2px;
+    border-radius: 18px;
+    border: 1px transparent white;
+    width: 100%;
+    height: 25vh;
+    margin-bottom: 3px;
+}*/
+#repoText{
+    color: bisque;
+    font-style: oblique;
+    text-align: center;
+    margin-top: 2px;
+    animation: textFadeInBounce 2s ease-in-out both;
+}
+
+@keyframes textFadeInBounce {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+#repoText:hover {
+    animation: textHighlight 0.5s ease-in-out both;
+  }
+  
+@keyframes textHighlight {
+    0% {
+        background-color: transparent;
+    }
+    100% {
+        background-color: rgba(255, 255, 153, 0.2);
+    }
+}
