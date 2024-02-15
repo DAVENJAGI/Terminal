@@ -5,6 +5,9 @@ body{
     opacity: 95%;
     
 }
+::-webkit-scrollbar{
+    display: none;
+}
 
 @keyframes border-lighten {
     0% { background-color: linear-gadient(to right, #d3b428, #24f52e); }
